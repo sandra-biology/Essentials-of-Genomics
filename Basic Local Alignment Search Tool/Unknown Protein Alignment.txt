@@ -1,0 +1,1597 @@
+BLASTP 2.10.1+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: GHM2D049014
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           295,192,992 sequences; 106,311,842,569 total letters
+Query= unknown protein
+
+Length=50
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+P68989.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  105     1e-28  100%        
+C0HJI3.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insu...  101     5e-27  94%         
+P69046.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  101     6e-27  92%         
+C0HJI1.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  100     2e-26  92%         
+C0HJI4.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  99.4    3e-26  90%         
+P09477.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  97.4    2e-25  88%         
+P01336.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  97.1    2e-25  86%         
+P81881.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  97.1    3e-25  90%         
+P01337.1 RecName: Full=Insulin-1 [Batrachoididae gen. sp.]         97.1    3e-25  86%         
+P07453.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  92.0    2e-23  84%         
+P42633.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  90.9    6e-23  84%         
+XP_024289867.1 insulin [Oncorhynchus tshawytscha]                  92.0    9e-23  60%         
+C0HJI2.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insu...  90.5    9e-23  78%         
+XP_020340217.1 insulin [Oncorhynchus kisutch]                      92.0    1e-22  60%         
+CAB1353031.1 unnamed protein product [Coregonus sp. 'balchen']     92.0    1e-22  60%         
+P01340.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  89.7    2e-22  76%         
+XP_014053670.1 PREDICTED: insulin-like [Salmo salar]               92.4    2e-22  60%         
+XP_029481856.1 insulin [Oncorhynchus nerka]                        91.3    2e-22  60%         
+XP_029555153.1 insulin-like [Salmo trutta]                         91.3    2e-22  60%         
+P09476.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  89.7    2e-22  83%         
+C0HJI5.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insu...  89.7    2e-22  76%         
+XP_023868289.1 insulin [Salvelinus alpinus]                        91.3    2e-22  60%         
+XP_029546047.1 insulin [Salmo trutta]                              91.3    2e-22  60%         
+NP_001118141.1 preproinsulin 1 precursor [Oncorhynchus mykiss]     91.3    2e-22  60%         
+XP_029509866.1 insulin-like [Oncorhynchus nerka]                   92.0    2e-22  59%         
+CDQ66972.1 unnamed protein product [Oncorhynchus mykiss]           90.9    3e-22  60%         
+XP_024258689.1 insulin-like [Oncorhynchus tshawytscha]             91.7    5e-22  59%         
+XP_020320473.2 insulin [Oncorhynchus kisutch]                      90.5    5e-22  59%         
+XP_010895347.1 insulin [Esox lucius]                               90.5    5e-22  58%         
+NP_001118142.1 preproinsulin 2 precursor [Oncorhynchus mykiss]     90.5    5e-22  59%         
+P04667.2 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  89.4    1e-21  59%         
+XP_023824401.1 insulin [Salvelinus alpinus]                        90.5    1e-21  58%         
+AAA49414.1 preproinsulin [Oncorhynchus keta]                       89.0    2e-21  58%         
+CAB1316845.1 unnamed protein product [Coregonus sp. 'balchen']     90.9    2e-21  59%         
+P81423.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  86.7    3e-21  77%         
+P01338.1 RecName: Full=Insulin 2; Contains: RecName: Full=Insu...  85.5    1e-20  80%         
+C0HJI8.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insu...  85.5    1e-20  75%         
+CAA24983.1 preproinsulin [Oncorhynchus keta]                       86.3    2e-20  57%         
+XP_023152986.1 insulin [Amphiprion ocellaris]                      86.3    3e-20  52%         
+P68243.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  84.3    3e-20  76%         
+XP_022077343.1 insulin [Acanthochromis polyacanthus]               85.9    3e-20  52%         
+P67968.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  84.0    4e-20  76%         
+XP_013992220.1 PREDICTED: insulin [Salmo salar]                    85.5    5e-20  57%         
+XP_008296936.1 PREDICTED: insulin [Stegastes partitus]             85.5    5e-20  52%         
+ACI66565.1 Insulin precursor [Salmo salar]                         85.1    5e-20  57%         
+XP_012683874.2 insulin [Clupea harengus]                           86.3    5e-20  53%         
+P69045.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  85.1    8e-20  51%         
+P12703.2 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  83.2    8e-20  76%         
+P29335.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  83.2    9e-20  73%         
+XP_017296161.1 insulin [Kryptolebias marmoratus]                   84.7    1e-19  52%         
+XP_031172182.1 insulin [Sander lucioperca]                         84.3    1e-19  52%         
+6INS_E Chain E, X-Ray Analysis Of The Single Chain B29-A1 Pept...  82.4    1e-19  77%         
+XP_010788574.1 PREDICTED: insulin [Notothenia coriiceps]           84.0    2e-19  54%         
+XP_034082437.1 insulin-like [Gymnodraco acuticeps]                 83.6    2e-19  54%         
+XP_030217439.1 insulin-like [Gadus morhua]                         84.0    2e-19  50%         
+XP_028322165.1 insulin-like [Gouania willdenowi]                   83.6    2e-19  57%         
+XP_007261072.1 insulin [Astyanax mexicanus]                        83.2    3e-19  54%         
+XP_026887713.1 insulin [Electrophorus electricus]                  83.2    3e-19  54%         
+P68987.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  81.6    3e-19  67%         
+XP_028451988.1 insulin [Perca flavescens]                          83.6    3e-19  52%         
+KAF1378051.1 hypothetical protein PFLUV_G00185570 [Perca fluvi...  83.6    3e-19  51%         
+XP_033503967.1 insulin [Epinephelus lanceolatus]                   83.2    4e-19  49%         
+Q98TA8.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  83.2    4e-19  52%         
+XP_022600464.1 insulin [Seriola dumerili]                          83.2    4e-19  51%         
+XP_018542510.1 PREDICTED: insulin [Lates calcarifer]               82.8    5e-19  51%         
+XP_029303499.1 insulin [Cottoperca gobio]                          82.8    5e-19  50%         
+C0HJI7.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insu...  81.3    5e-19  74%         
+XP_023259767.1 insulin [Seriola lalandi dorsalis]                  82.8    5e-19  50%         
+XP_029956970.1 insulin [Salarias fasciatus]                        82.4    7e-19  49%         
+XP_030638218.1 insulin [Chanos chanos]                             82.0    1e-18  53%         
+XP_020504597.1 insulin-like [Labrus bergylta]                      81.3    3e-18  46%         
+AAK54684.1 preproinsulin [Hiodon alosoides]                        80.9    3e-18  49%         
+XP_012708882.1 insulin [Fundulus heteroclitus]                     80.9    3e-18  48%         
+P01320.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  79.0    3e-18  74%         
+P01314.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  79.0    4e-18  75%         
+XP_034033537.1 insulin [Thalassophryne amazonica]                  80.5    5e-18  48%         
+P67973.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  78.2    7e-18  75%         
+pir|A59151| insulin precursor - jack bean (fragments) [Canaval...  78.2    8e-18  75%         
+XP_015204784.1 PREDICTED: insulin-like isoform X3 [Lepisosteus...  79.3    1e-17  49%         
+AAC78289.1 proinsulin-like protein BKRA [synthetic construct]      77.8    1e-17  72%         
+P01316.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  77.4    1e-17  75%         
+P01319.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  77.4    2e-17  75%         
+AGC54790.1 insulin precursor [synthetic construct]                 77.4    2e-17  72%         
+P18109.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  77.0    2e-17  73%         
+1SJU_A Chain A, PROINSULIN [Homo sapiens]                          77.0    2e-17  72%         
+P0C236.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  76.6    3e-17  69%         
+P01324.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  76.6    3e-17  73%         
+XP_029704669.1 insulin isoform X2 [Takifugu rubripes]              78.6    3e-17  47%         
+pir|INHY| insulin - hamster [Cricetinae gen. sp.]                  76.6    3e-17  73%         
+CAF97344.1 unnamed protein product [Tetraodon nigroviridis]        78.2    4e-17  47%         
+5WDM_A Chain A, Single-chain insulin analog [Homo sapiens]         75.9    7e-17  67%         
+ANK79259.1 single chain insulin analog SCI59 [synthetic constr...  75.9    9e-17  64%         
+ASJ76983.1 single chain insulin analog SCI59 [synthetic constr...  75.5    1e-16  64%         
+AOR50935.1 mini-insulin [synthetic construct]                      76.3    1e-16  62%         
+XP_026777620.1 insulin [Pangasianodon hypophthalmus]               76.6    1e-16  51%         
+ABP93829.1 mini-proinsulin [synthetic construct]                   75.1    1e-16  64%         
+P12708.1 RecName: Full=Insulin; Contains: RecName: Full=Insuli...  75.1    1e-16  63%         
+1ZEI_A Chain A, Insulin [Sus scrofa]                               75.1    1e-16  70%         
+1EFE_A Chain A, An Active Mini-Proinsulin, M2pi [Homo sapiens]     74.7    2e-16  63%         
+XP_030293054.1 insulin-like [Sparus aurata]                        76.3    2e-16  47%         
+
+ALIGNMENTS
+>P68989.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Oncorhynchus gorbuscha]
+ P68990.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Oncorhynchus kisutch]
+ prf||1616203A insulin [Oncorhynchus keta]
+ prf||1616203B insulin [Oncorhynchus gorbuscha]
+Length=50
+
+ Score = 105 bits (261),  Expect = 1e-28, Method: Compositional matrix adjust.
+ Identities = 50/50 (100%), Positives = 50/50 (100%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN
+Sbjct  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+
+
+>C0HJI3.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
+chain; Contains: RecName: Full=Insulin-2 A chain [Katsuwonus 
+pelamis]
+Length=51
+
+ Score = 101 bits (251),  Expect = 5e-27, Method: Compositional matrix adjust.
+ Identities = 47/50 (94%), Positives = 48/50 (96%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           A  QHLCGSHLVDALYLVCGE+GFFYNPKGIVEQCCHKPCNIFDLQNYCN
+Sbjct  2   APPQHLCGSHLVDALYLVCGERGFFYNPKGIVEQCCHKPCNIFDLQNYCN  51
+
+
+>P69046.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Lophius piscatorius]
+Length=51
+
+ Score = 101 bits (251),  Expect = 6e-27, Method: Compositional matrix adjust.
+ Identities = 46/50 (92%), Positives = 49/50 (98%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           A AQHLCGSHLVDALYLVCG++GFFYNPKGIVEQCCH+PCNIFDLQNYCN
+Sbjct  2   APAQHLCGSHLVDALYLVCGDRGFFYNPKGIVEQCCHRPCNIFDLQNYCN  51
+
+
+>C0HJI1.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Caranx sexfasciatus]
+ C0HJI6.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
+chain; Contains: RecName: Full=Insulin-2 A chain [Thunnus orientalis]
+ C0HJT9.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Seriola quinqueradiata]
+ P01339.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Thunnus thynnus]
+ pir|INTU2| insulin 2 - tuna [Scombridae gen. sp.]
+Length=51
+
+ Score = 100 bits (248),  Expect = 2e-26, Method: Compositional matrix adjust.
+ Identities = 46/50 (92%), Positives = 48/50 (96%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           A  QHLCGSHLVDALYLVCG++GFFYNPKGIVEQCCHKPCNIFDLQNYCN
+Sbjct  2   APPQHLCGSHLVDALYLVCGDRGFFYNPKGIVEQCCHKPCNIFDLQNYCN  51
+
+
+>C0HJI4.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Pagrus major]
+ C0HJU0.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Platax teira]
+Length=51
+
+ Score = 99.4 bits (246),  Expect = 3e-26, Method: Compositional matrix adjust.
+ Identities = 45/50 (90%), Positives = 48/50 (96%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           A  QHLCGSHLVDALYLVCG++GFFYNPKGIVEQCCH+PCNIFDLQNYCN
+Sbjct  2   APPQHLCGSHLVDALYLVCGDRGFFYNPKGIVEQCCHRPCNIFDLQNYCN  51
+
+
+>P09477.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Platichthys flesus]
+Length=51
+
+ Score = 97.4 bits (241),  Expect = 2e-25, Method: Compositional matrix adjust.
+ Identities = 44/50 (88%), Positives = 46/50 (92%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+              QHLCG+HLVDALYLVCGE+GFFY PKGIVEQCCHKPCNIFDLQNYCN
+Sbjct  2   VPPQHLCGAHLVDALYLVCGERGFFYTPKGIVEQCCHKPCNIFDLQNYCN  51
+
+
+>P01336.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Gadus morhua callarias]
+ pir|INCD| insulin - cod (Gadus sp.) [Gadus sp.]
+Length=51
+
+ Score = 97.1 bits (240),  Expect = 2e-25, Method: Compositional matrix adjust.
+ Identities = 43/50 (86%), Positives = 48/50 (96%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           A  QHLCGSHLVDALYLVCG++GFFYNPKGIV+QCCH+PC+IFDLQNYCN
+Sbjct  2   APPQHLCGSHLVDALYLVCGDRGFFYNPKGIVDQCCHRPCDIFDLQNYCN  51
+
+
+>P81881.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Piaractus mesopotamicus]
+Length=52
+
+ Score = 97.1 bits (240),  Expect = 3e-25, Method: Compositional matrix adjust.
+ Identities = 45/50 (90%), Positives = 46/50 (92%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+            A QHLCGSHLVDALYLVCG  GFFYNPKGIVEQCCHKPC+IFDLQNYCN
+Sbjct  3   GAPQHLCGSHLVDALYLVCGPSGFFYNPKGIVEQCCHKPCSIFDLQNYCN  52
+
+
+>P01337.1 RecName: Full=Insulin-1 [Batrachoididae gen. sp.]
+Length=51
+
+ Score = 97.1 bits (240),  Expect = 3e-25, Method: Compositional matrix adjust.
+ Identities = 43/50 (86%), Positives = 48/50 (96%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           A  QHLCGSHLVDALYLVCG++GFFYNPKGIVEQCCH+PC+IFDLQ+YCN
+Sbjct  2   APPQHLCGSHLVDALYLVCGDRGFFYNPKGIVEQCCHRPCDIFDLQSYCN  51
+
+
+>P07453.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Myoxocephalus scorpius]
+Length=50
+
+ Score = 92.0 bits (227),  Expect = 2e-23, Method: Compositional matrix adjust.
+ Identities = 42/50 (84%), Positives = 46/50 (92%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           A  QHLCGSHLVDALYLVCG++GFFYNPKGIVEQCCH+PCNI  L+NYCN
+Sbjct  1   ADPQHLCGSHLVDALYLVCGDRGFFYNPKGIVEQCCHRPCNIRVLENYCN  50
+
+
+>P42633.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Anguilla rostrata]
+Length=51
+
+ Score = 90.9 bits (224),  Expect = 6e-23, Method: Compositional matrix adjust.
+ Identities = 43/51 (84%), Positives = 47/51 (92%), Gaps = 1/51 (2%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           A+ QHLCGSHLV+ALYLVCG  GFF+NPK GIVEQCCHKPC+IFDLQNYCN
+Sbjct  1   ASTQHLCGSHLVEALYLVCGSNGFFFNPKDGIVEQCCHKPCSIFDLQNYCN  51
+
+
+>XP_024289867.1 insulin [Oncorhynchus tshawytscha]
+Length=105
+
+ Score = 92.0 bits (227),  Expect = 9e-23, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLIGFFSPKSAKENEEYPFKDQMEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
+
+
+>C0HJI2.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
+chain; Contains: RecName: Full=Insulin-1 A chain [Katsuwonus 
+pelamis]
+Length=50
+
+ Score = 90.5 bits (223),  Expect = 9e-23, Method: Compositional matrix adjust.
+ Identities = 38/49 (78%), Positives = 48/49 (98%), Gaps = 0/49 (0%)
+
+Query  2   AAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           ++QHLCGSHLV+AL LVCG++GFFYNP+GIVEQCCH+PC+IF+L+NYCN
+Sbjct  2   SSQHLCGSHLVEALNLVCGDRGFFYNPRGIVEQCCHRPCSIFELENYCN  50
+
+
+>XP_020340217.1 insulin [Oncorhynchus kisutch]
+Length=105
+
+ Score = 92.0 bits (227),  Expect = 1e-22, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLIGFFSPKSAKENEEYPFKDQMEIMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
+
+
+>CAB1353031.1 unnamed protein product [Coregonus sp. 'balchen']
+Length=110
+
+ Score = 92.0 bits (227),  Expect = 1e-22, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  28   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLIGFLSPKSVQENEEYPFKDEMEMMV  87
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  88   KRGIVEQCCHKPCNIFDLQNYCN  110
+
+
+>P01340.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Katsuwonus pelamis]
+Length=50
+
+ Score = 89.7 bits (221),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 38/50 (76%), Positives = 46/50 (92%), Gaps = 0/50 (0%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           AA  HLCGSHLV+ALYLVCGE+GFFY PKGI ++CCHKPC+IF+L++YCN
+Sbjct  1   AANPHLCGSHLVEALYLVCGERGFFYQPKGIHZZCCHKPCBIFZLZBYCN  50
+
+
+>XP_014053670.1 PREDICTED: insulin-like [Salmo salar]
+Length=139
+
+ Score = 92.4 bits (228),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  57   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLTGFLFPKSAQEVAEYPFKDQMDMMV  116
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  117  KRGIVEQCCHKPCNIFDLQNYCN  139
+
+
+>XP_029481856.1 insulin [Oncorhynchus nerka]
+Length=105
+
+ Score = 91.3 bits (225),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLIGFLSPKSAKENEEYPFKDQTEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
+
+
+>XP_029555153.1 insulin-like [Salmo trutta]
+ ACI69187.1 Insulin precursor [Salmo salar]
+Length=105
+
+ Score = 91.3 bits (225),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLTGFLFPKSAQEVAEYPFKDQMDMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
+
+
+>P09476.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Atractosteus spatula]
+Length=52
+
+ Score = 89.7 bits (221),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 43/52 (83%), Positives = 47/52 (90%), Gaps = 2/52 (4%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK--GIVEQCCHKPCNIFDLQNYCN  50
+           AA QHLCGSHLV+ALYLVCGEKGFFYNP   GIVEQCCHKPC I++L+NYCN
+Sbjct  1   AANQHLCGSHLVEALYLVCGEKGFFYNPNKVGIVEQCCHKPCTIYELENYCN  52
+
+
+>C0HJI5.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
+chain; Contains: RecName: Full=Insulin-1 A chain [Thunnus orientalis]
+Length=50
+
+ Score = 89.7 bits (221),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 37/49 (76%), Positives = 48/49 (98%), Gaps = 0/49 (0%)
+
+Query  2   AAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           ++QHLCGSHLV+AL LVCG++GFFYNP+GIVEQCCH+PC++F+L+NYCN
+Sbjct  2   SSQHLCGSHLVEALNLVCGDRGFFYNPRGIVEQCCHRPCSMFELENYCN  50
+
+
+>XP_023868289.1 insulin [Salvelinus alpinus]
+Length=105
+
+ Score = 91.3 bits (225),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLIGFLSPKSAQEKEEYPFKDQMEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
+
+
+>XP_029546047.1 insulin [Salmo trutta]
+Length=105
+
+ Score = 91.3 bits (225),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLIGFLSPKSAQENEEYPFKDQMEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
+
+
+>NP_001118141.1 preproinsulin 1 precursor [Oncorhynchus mykiss]
+ ABN69072.1 preproinsulin 1 [Oncorhynchus mykiss]
+Length=105
+
+ Score = 91.3 bits (225),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLIGFLSPKSAKENEEYPFKDQMEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
+
+
+>XP_029509866.1 insulin-like [Oncorhynchus nerka]
+Length=142
+
+ Score = 92.0 bits (227),  Expect = 2e-22, Method: Compositional matrix adjust.
+ Identities = 50/85 (59%), Positives = 50/85 (59%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  58   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLTGFLFPKSSQENEVAESPFKDQMDM  117
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVEQCCHKPCNIFDLQNYCN
+Sbjct  118  IVKRGIVEQCCHKPCNIFDLQNYCN  142
+
+
+>CDQ66972.1 unnamed protein product [Oncorhynchus mykiss]
+Length=105
+
+ Score = 90.9 bits (224),  Expect = 3e-22, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 50/83 (60%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDLLYCFWFLSPKSAKENEEYPFKDQMEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
+
+
+>XP_024258689.1 insulin-like [Oncorhynchus tshawytscha]
+ XP_024258690.1 insulin-like [Oncorhynchus tshawytscha]
+Length=142
+
+ Score = 91.7 bits (226),  Expect = 5e-22, Method: Compositional matrix adjust.
+ Identities = 50/85 (59%), Positives = 50/85 (59%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  58   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLTGFLFPKSSQENEVAEYPFKDQMDM  117
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVEQCCHKPCNIFDLQNYCN
+Sbjct  118  IVKRGIVEQCCHKPCNIFDLQNYCN  142
+
+
+>XP_020320473.2 insulin [Oncorhynchus kisutch]
+ CDQ85029.1 unnamed protein product [Oncorhynchus mykiss]
+Length=107
+
+ Score = 90.5 bits (223),  Expect = 5e-22, Method: Compositional matrix adjust.
+ Identities = 50/85 (59%), Positives = 50/85 (59%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLTGFLFPKSSQENEVAEYPFKDQMDM  82
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   IVKRGIVEQCCHKPCNIFDLQNYCN  107
+
+
+>XP_010895347.1 insulin [Esox lucius]
+Length=106
+
+ Score = 90.5 bits (223),  Expect = 5e-22, Method: Compositional matrix adjust.
+ Identities = 49/84 (58%), Positives = 50/84 (60%), Gaps = 34/84 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDSLIGFLSPKSAQENEVAENPFKDQMEM  82
+
+Query  30   ---GIVEQCCHKPCNIFDLQNYCN  50
+               GIVEQCCHKPCNIFDLQ+YCN
+Sbjct  83   VKRGIVEQCCHKPCNIFDLQSYCN  106
+
+
+>NP_001118142.1 preproinsulin 2 precursor [Oncorhynchus mykiss]
+ ABN69073.1 preproinsulin 2 [Oncorhynchus mykiss]
+Length=107
+
+ Score = 90.5 bits (223),  Expect = 5e-22, Method: Compositional matrix adjust.
+ Identities = 50/85 (59%), Positives = 50/85 (59%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLTGFLFPKSSQENEVAEYPFKDQMDM  82
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   IVKRGIVEQCCHKPCNIFDLQNYCN  107
+
+
+>P04667.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Oncorhynchus keta]
+ CAA31910.1 preproinsulin [Oncorhynchus keta]
+Length=105
+
+ Score = 89.4 bits (220),  Expect = 1e-21, Method: Compositional matrix adjust.
+ Identities = 49/83 (59%), Positives = 49/83 (59%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFY PK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYTPKRDVDPLIGFLSPKSAKENEEYPFKDQTEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHKPCNIFDLQNYCN  105
+
+
+>XP_023824401.1 insulin [Salvelinus alpinus]
+Length=142
+
+ Score = 90.5 bits (223),  Expect = 1e-21, Method: Compositional matrix adjust.
+ Identities = 49/85 (58%), Positives = 50/85 (59%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            +AAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  58   SAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDPLTGFLFPKPAQENEVAGYPFKDQMDM  117
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVEQCCHKPCNIFDLQNYCN
+Sbjct  118  MVKRGIVEQCCHKPCNIFDLQNYCN  142
+
+
+>AAA49414.1 preproinsulin [Oncorhynchus keta]
+ prf||0906264A insulin,prepro [Oncorhynchus keta]
+Length=105
+
+ Score = 89.0 bits (219),  Expect = 2e-21, Method: Compositional matrix adjust.
+ Identities = 48/83 (58%), Positives = 49/83 (59%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFY PK                               
+Sbjct  23   AAAQHLCGSHLVDALYLVCGEKGFFYTPKRDVDPLIGFLSPKSAKENEEYPFKDQTEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCH+PCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHRPCNIFDLQNYCN  105
+
+
+>CAB1316845.1 unnamed protein product [Coregonus sp. 'balchen']
+Length=186
+
+ Score = 90.9 bits (224),  Expect = 2e-21, Method: Compositional matrix adjust.
+ Identities = 50/85 (59%), Positives = 50/85 (59%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGEKGFFYNPK                               
+Sbjct  102  AAAQHLCGSHLVDALYLVCGEKGFFYNPKRDVDLLTGFRSPKSAQENEVAEYPFKDQMDM  161
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVEQCCHKPCNIFDLQNYCN
+Sbjct  162  MVKRGIVEQCCHKPCNIFDLQNYCN  186
+
+
+>P81423.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Acipenser gueldenstaedtii]
+Length=52
+
+ Score = 86.7 bits (213),  Expect = 3e-21, Method: Compositional matrix adjust.
+ Identities = 40/52 (77%), Positives = 46/52 (88%), Gaps = 2/52 (4%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK--GIVEQCCHKPCNIFDLQNYCN  50
+           AA QHLCGSHLV+ALYLVCGE+GFFY P   GIVEQCCH PC+++DL+NYCN
+Sbjct  1   AANQHLCGSHLVEALYLVCGERGFFYTPNKVGIVEQCCHSPCSLYDLENYCN  52
+
+
+>P01338.1 RecName: Full=Insulin 2; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Batrachoididae 
+gen. sp.]
+Length=50
+
+ Score = 85.5 bits (210),  Expect = 1e-20, Method: Compositional matrix adjust.
+ Identities = 40/50 (80%), Positives = 45/50 (90%), Gaps = 1/50 (2%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           A  QHLCGSHLVDALYLVCG++GFFYN  GIVEQCCH+PC+ FDLQ+YCN
+Sbjct  2   APPQHLCGSHLVDALYLVCGDRGFFYN-SGIVEQCCHRPCDKFDLQSYCN  50
+
+
+>C0HJI8.1 RecName: Full=Insulin-2; Contains: RecName: Full=Insulin-2 B 
+chain; Contains: RecName: Full=Insulin-2 A chain [Huso dauricus]
+Length=52
+
+ Score = 85.5 bits (210),  Expect = 1e-20, Method: Compositional matrix adjust.
+ Identities = 39/52 (75%), Positives = 46/52 (88%), Gaps = 2/52 (4%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK--GIVEQCCHKPCNIFDLQNYCN  50
+           AA QHLCG+HLV+ALYLVCGE+GFFY P   GIVEQCCH PC+++DL+NYCN
+Sbjct  1   AANQHLCGAHLVEALYLVCGERGFFYTPNKVGIVEQCCHSPCSLYDLENYCN  52
+
+
+>CAA24983.1 preproinsulin [Oncorhynchus keta]
+Length=105
+
+ Score = 86.3 bits (212),  Expect = 2e-20, Method: Compositional matrix adjust.
+ Identities = 47/83 (57%), Positives = 48/83 (58%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCG HLVDALYLVCGEKGFFY PK                               
+Sbjct  23   AAAQHLCGLHLVDALYLVCGEKGFFYTPKRDVDPLIGFLSPKSAKENEEYPFKDQTEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              GIVEQCCH+PCNIFDLQNYCN
+Sbjct  83   KRGIVEQCCHRPCNIFDLQNYCN  105
+
+
+>XP_023152986.1 insulin [Amphiprion ocellaris]
+Length=116
+
+ Score = 86.3 bits (212),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 47/91 (52%), Positives = 49/91 (54%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   AAPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLLGFLPSKAGAAVAGGDNEAAEFAFK  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCHKPCNIFDLQNYCN
+Sbjct  86   DQIMEMMVKRGIVEQCCHKPCNIFDLQNYCN  116
+
+
+>P68243.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Cairina moschata]
+ P68245.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Anser anser anser]
+Length=51
+
+ Score = 84.3 bits (207),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 39/51 (76%), Positives = 46/51 (90%), Gaps = 1/51 (2%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           AA QHLCGSHLV+ALYLVCGE+GFFY+PK GIVEQCC  PC+++ L+NYCN
+Sbjct  1   AANQHLCGSHLVEALYLVCGERGFFYSPKTGIVEQCCENPCSLYQLENYCN  51
+
+
+>XP_022077343.1 insulin [Acanthochromis polyacanthus]
+Length=116
+
+ Score = 85.9 bits (211),  Expect = 3e-20, Method: Compositional matrix adjust.
+ Identities = 47/91 (52%), Positives = 49/91 (54%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   AAPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLLGFLPPKAGAAVAGGDNEAAEFAFK  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCHKPCNIFDLQNYCN
+Sbjct  86   DQMMEMMVKRGIVEQCCHKPCNIFDLQNYCN  116
+
+
+>P67968.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Meleagris gallopavo]
+ P67969.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Struthio camelus]
+ P69047.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Trachemys dorbigni]
+ P69048.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Trachemys scripta]
+ pir|INOS| insulin - ostrich [Struthio camelus]
+ pir|INTK| insulin - turkey (tentative sequence) [Meleagris gallopavo]
+Length=51
+
+ Score = 84.0 bits (206),  Expect = 4e-20, Method: Compositional matrix adjust.
+ Identities = 39/51 (76%), Positives = 46/51 (90%), Gaps = 1/51 (2%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           AA QHLCGSHLV+ALYLVCGE+GFFY+PK GIVEQCCH  C+++ L+NYCN
+Sbjct  1   AANQHLCGSHLVEALYLVCGERGFFYSPKAGIVEQCCHNTCSLYQLENYCN  51
+
+
+>XP_013992220.1 PREDICTED: insulin [Salmo salar]
+ ACI69004.1 Insulin precursor [Salmo salar]
+Length=105
+
+ Score = 85.5 bits (210),  Expect = 5e-20, Method: Compositional matrix adjust.
+ Identities = 47/83 (57%), Positives = 47/83 (57%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCGEKG FYNPK                               
+Sbjct  23   AAVQHLCGSHLVDALYLVCGEKGLFYNPKRDVDPLIGFLSPKSAQENEEFPFKDQMEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              G VEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGSVEQCCHKPCNIFDLQNYCN  105
+
+
+>XP_008296936.1 PREDICTED: insulin [Stegastes partitus]
+Length=116
+
+ Score = 85.5 bits (210),  Expect = 5e-20, Method: Compositional matrix adjust.
+ Identities = 47/91 (52%), Positives = 49/91 (54%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   AAPQHLCGSHLVDALYLVCGDRGFFYNPKRDVEPLLGFLPPKAAAAAAGGQNEAADFAFK  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCHKPCNIFDLQNYCN
+Sbjct  86   DQMMEMMVKRGIVEQCCHKPCNIFDLQNYCN  116
+
+
+>ACI66565.1 Insulin precursor [Salmo salar]
+Length=105
+
+ Score = 85.1 bits (209),  Expect = 5e-20, Method: Compositional matrix adjust.
+ Identities = 47/83 (57%), Positives = 47/83 (57%), Gaps = 33/83 (40%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCGEKG FYNPK                               
+Sbjct  23   AAVQHLCGSHLVDALYLVCGEKGLFYNPKRDVDPLIGFLSPKSAQDNEEFPFKDQMEMMV  82
+
+Query  30   --GIVEQCCHKPCNIFDLQNYCN  50
+              G VEQCCHKPCNIFDLQNYCN
+Sbjct  83   KRGSVEQCCHKPCNIFDLQNYCN  105
+
+
+>XP_012683874.2 insulin [Clupea harengus]
+Length=148
+
+ Score = 86.3 bits (212),  Expect = 5e-20, Method: Compositional matrix adjust.
+ Identities = 47/89 (53%), Positives = 49/89 (55%), Gaps = 40/89 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AAAQHLCGSHLVDALYLVCGE+GFFYNPK                               
+Sbjct  55   AAAQHLCGSHLVDALYLVCGEQGFFYNPKREADPIQGFLQPKSGQENEVAEYPYKDMGEM  114
+
+Query  30   ---------GIVEQCCHKPCNIFDLQNYC  49
+                     GIVEQCCHKPCNIF+LQNYC
+Sbjct  115  IVKRGIVVRGIVEQCCHKPCNIFELQNYC  143
+
+
+>P69045.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Lophius americanus]
+ CAA23907.1 unnamed protein product [Lophius americanus]
+Length=116
+
+ Score = 85.1 bits (209),  Expect = 8e-20, Method: Compositional matrix adjust.
+ Identities = 46/91 (51%), Positives = 49/91 (54%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A AQHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APAQHLCGSHLVDALYLVCGDRGFFYNPKRDVDQLLGFLPPKSGGAAAAGADNEVAEFAF  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCH+PCNIFDLQNYCN
+Sbjct  86   KDQMEMMVKRGIVEQCCHRPCNIFDLQNYCN  116
+
+
+>P12703.2 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Alligator mississippiensis]
+Length=51
+
+ Score = 83.2 bits (204),  Expect = 8e-20, Method: Compositional matrix adjust.
+ Identities = 39/51 (76%), Positives = 45/51 (88%), Gaps = 1/51 (2%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           AA Q LCGSHLVDALYLVCGE+GFFY+PK GIVEQCCH  C+++ L+NYCN
+Sbjct  1   AANQRLCGSHLVDALYLVCGERGFFYSPKGGIVEQCCHNTCSLYQLENYCN  51
+
+
+>P29335.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Amia calva]
+Length=52
+
+ Score = 83.2 bits (204),  Expect = 9e-20, Method: Compositional matrix adjust.
+ Identities = 38/52 (73%), Positives = 45/52 (87%), Gaps = 2/52 (4%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNP--KGIVEQCCHKPCNIFDLQNYCN  50
+           AA+QHLCGSHLV+AL+LVCGE GFFYNP   GIVEQCC KPC I++++ YCN
+Sbjct  1   AASQHLCGSHLVEALFLVCGESGFFYNPNKSGIVEQCCLKPCTIYEMEKYCN  52
+
+
+>XP_017296161.1 insulin [Kryptolebias marmoratus]
+Length=114
+
+ Score = 84.7 bits (208),  Expect = 1e-19, Method: Compositional matrix adjust.
+ Identities = 46/89 (52%), Positives = 48/89 (54%), Gaps = 39/89 (44%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLLGFLPPKTAAAHGGENEVAEFAFKD  85
+
+Query  30   --------GIVEQCCHKPCNIFDLQNYCN  50
+                    GIVEQCCHKPCNIFDLQNYCN
+Sbjct  86   QMEMMVKRGIVEQCCHKPCNIFDLQNYCN  114
+
+
+>XP_031172182.1 insulin [Sander lucioperca]
+Length=114
+
+ Score = 84.3 bits (207),  Expect = 1e-19, Method: Compositional matrix adjust.
+ Identities = 46/89 (52%), Positives = 48/89 (54%), Gaps = 39/89 (44%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCGE+GFFYNPK                               
+Sbjct  26   AQPQHLCGSHLVDALYLVCGERGFFYNPKRDVDPLMGFLPPKVGAAAGGENEVAEFAFKD  85
+
+Query  30   --------GIVEQCCHKPCNIFDLQNYCN  50
+                    GIVEQCCH+PCNIFDLQNYCN
+Sbjct  86   QMEMMVKRGIVEQCCHRPCNIFDLQNYCN  114
+
+
+>6INS_E Chain E, X-Ray Analysis Of The Single Chain B29-A1 Peptide-Linked 
+Insulin Molecule. A Completely Inactive Analogue [Sus scrofa]
+ 6INS_F Chain F, X-Ray Analysis Of The Single Chain B29-A1 Peptide-Linked 
+Insulin Molecule. A Completely Inactive Analogue [Sus scrofa]
+Length=50
+
+ Score = 82.4 bits (202),  Expect = 1e-19, Method: Compositional matrix adjust.
+ Identities = 36/47 (77%), Positives = 42/47 (89%), Gaps = 0/47 (0%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PKGIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKGIVEQCCTSICSLYQLENYCN  50
+
+
+>XP_010788574.1 PREDICTED: insulin [Notothenia coriiceps]
+ XP_033935329.1 insulin-like [Pseudochaenichthys georgianus]
+ XP_033969918.1 insulin-like [Trematomus bernacchii]
+ KAF3840564.1 hypothetical protein F7725_006426 [Dissostichus mawsoni]
+Length=110
+
+ Score = 84.0 bits (206),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 45/84 (54%), Positives = 47/84 (56%), Gaps = 35/84 (42%)
+
+Query  2    AAQHLCGSHLVDALYLVCGEKGFFYNPK--------------------------------  29
+              QHLCGSHLVDALYLVCGE+GFFYNPK                                
+Sbjct  27   GPQHLCGSHLVDALYLVCGERGFFYNPKRDVNPLMGFLPPKAAGENEVAEFGFKDQMELM  86
+
+Query  30   ---GIVEQCCHKPCNIFDLQNYCN  50
+               GIVEQCCH+PCNIFDLQNYCN
+Sbjct  87   VKRGIVEQCCHQPCNIFDLQNYCN  110
+
+
+>XP_034082437.1 insulin-like [Gymnodraco acuticeps]
+Length=110
+
+ Score = 83.6 bits (205),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 45/84 (54%), Positives = 47/84 (56%), Gaps = 35/84 (42%)
+
+Query  2    AAQHLCGSHLVDALYLVCGEKGFFYNPK--------------------------------  29
+              QHLCGSHLVDALYLVCGE+GFFYNPK                                
+Sbjct  27   GPQHLCGSHLVDALYLVCGERGFFYNPKRDVNPLMGFLPPKVAGENEVAEFGFKDQMELM  86
+
+Query  30   ---GIVEQCCHKPCNIFDLQNYCN  50
+               GIVEQCCH+PCNIFDLQNYCN
+Sbjct  87   VKRGIVEQCCHQPCNIFDLQNYCN  110
+
+
+>XP_030217439.1 insulin-like [Gadus morhua]
+Length=113
+
+ Score = 84.0 bits (206),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 44/88 (50%), Positives = 48/88 (55%), Gaps = 38/88 (43%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKRAVDPMLGFLSPMAGGTRGDKEVAELAFKDQ  85
+
+Query  30   -------GIVEQCCHKPCNIFDLQNYCN  50
+                   GIV+QCCH+PCNIFDLQNYCN
+Sbjct  86   MEEMEKRGIVDQCCHRPCNIFDLQNYCN  113
+
+
+>XP_028322165.1 insulin-like [Gouania willdenowi]
+ XP_028322166.1 insulin-like [Gouania willdenowi]
+Length=105
+
+ Score = 83.6 bits (205),  Expect = 2e-19, Method: Compositional matrix adjust.
+ Identities = 45/79 (57%), Positives = 46/79 (58%), Gaps = 33/79 (42%)
+
+Query  5    HLCGSHLVDALYLVCGEKGFFYNPK---------------------------------GI  31
+            HLCGSHLVDALYLVCGE+GFFYNPK                                 GI
+Sbjct  27   HLCGSHLVDALYLVCGERGFFYNPKRDVDPLLGFLPAAQANVENEVAFKDQMEMMVKRGI  86
+
+Query  32   VEQCCHKPCNIFDLQNYCN  50
+            VEQCCHKPCNIFDLQNYCN
+Sbjct  87   VEQCCHKPCNIFDLQNYCN  105
+
+
+>XP_007261072.1 insulin [Astyanax mexicanus]
+Length=108
+
+ Score = 83.2 bits (204),  Expect = 3e-19, Method: Compositional matrix adjust.
+ Identities = 46/85 (54%), Positives = 47/85 (55%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCG  GFFYNPK                               
+Sbjct  24   AAPQHLCGSHLVDALYLVCGPSGFFYNPKRELNPLQEFLSPKSAQDGELAEYPYKEHTEL  83
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVEQCCHKPC+IFDLQNYCN
+Sbjct  84   MVKRGIVEQCCHKPCSIFDLQNYCN  108
+
+
+>XP_026887713.1 insulin [Electrophorus electricus]
+Length=108
+
+ Score = 83.2 bits (204),  Expect = 3e-19, Method: Compositional matrix adjust.
+ Identities = 46/85 (54%), Positives = 47/85 (55%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCG  GFFYNPK                               
+Sbjct  24   AAPQHLCGSHLVDALYLVCGPSGFFYNPKREVDPLLGFLSSKAGQEGEMAEYPYREHAEL  83
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVEQCCHKPC+IFDLQNYCN
+Sbjct  84   MVKRGIVEQCCHKPCSIFDLQNYCN  108
+
+
+>P68987.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Petromyzon marinus]
+ P68988.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Lampetra fluviatilis]
+Length=57
+
+ Score = 81.6 bits (200),  Expect = 3e-19, Method: Compositional matrix adjust.
+ Identities = 35/52 (67%), Positives = 44/52 (85%), Gaps = 2/52 (4%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK--GIVEQCCHKPCNIFDLQNYCN  50
+           A   HLCGSHLV+ALY+VCG++GFFY P   GIVEQCCH+ C+I+D++NYCN
+Sbjct  6   AGGTHLCGSHLVEALYVVCGDRGFFYTPSKTGIVEQCCHRKCSIYDMENYCN  57
+
+
+>XP_028451988.1 insulin [Perca flavescens]
+ XP_028451989.1 insulin [Perca flavescens]
+ TDH05339.1 hypothetical protein EPR50_G00143550 [Perca flavescens]
+Length=114
+
+ Score = 83.6 bits (205),  Expect = 3e-19, Method: Compositional matrix adjust.
+ Identities = 46/89 (52%), Positives = 48/89 (54%), Gaps = 39/89 (44%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCGE+GFFYNPK                               
+Sbjct  26   AQPQHLCGSHLVDALYLVCGERGFFYNPKRDVDPLMGFLPPKGGAAAGGENEVAEFAFKD  85
+
+Query  30   --------GIVEQCCHKPCNIFDLQNYCN  50
+                    GIVEQCCH+PCNIFDLQNYCN
+Sbjct  86   QMEMMVKRGIVEQCCHRPCNIFDLQNYCN  114
+
+
+>KAF1378051.1 hypothetical protein PFLUV_G00185570 [Perca fluviatilis]
+Length=116
+
+ Score = 83.6 bits (205),  Expect = 3e-19, Method: Compositional matrix adjust.
+ Identities = 46/91 (51%), Positives = 48/91 (53%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCGE+GFFYNPK                               
+Sbjct  26   AQPQHLCGSHLVDALYLVCGERGFFYNPKRDVDPLMGFLPPKGGAAAAAGGENEVAEFAF  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCH+PCNIFDLQNYCN
+Sbjct  86   KDQMEMMVKRGIVEQCCHRPCNIFDLQNYCN  116
+
+
+>XP_033503967.1 insulin [Epinephelus lanceolatus]
+Length=116
+
+ Score = 83.2 bits (204),  Expect = 4e-19, Method: Compositional matrix adjust.
+ Identities = 45/91 (49%), Positives = 48/91 (53%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+             A QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   TAPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLMGFLPPKVGGAAAAGGENEVAEFAY  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCH+PCNIFDLQNYCN
+Sbjct  86   KDQMEMMVKRGIVEQCCHRPCNIFDLQNYCN  116
+
+
+>Q98TA8.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain; Flags: Precursor 
+[Pantodon buchholzi]
+ AAK28712.1 preproinsulin [Pantodon buchholzi]
+Length=110
+
+ Score = 83.2 bits (204),  Expect = 4e-19, Method: Compositional matrix adjust.
+ Identities = 45/87 (52%), Positives = 48/87 (55%), Gaps = 37/87 (43%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A++QHLCGSHLVDALY+VCGEKGFFY PK                               
+Sbjct  24   ASSQHLCGSHLVDALYMVCGEKGFFYQPKTKRDVDPLLGFLSPKSAQENEADEYPYKDQG  83
+
+Query  30   ------GIVEQCCHKPCNIFDLQNYCN  50
+                  GIVEQCCH PCNIFDLQNYCN
+Sbjct  84   DLKVKRGIVEQCCHHPCNIFDLQNYCN  110
+
+
+>XP_022600464.1 insulin [Seriola dumerili]
+ BAE96120.1 insulin [Seriola dumerili]
+Length=116
+
+ Score = 83.2 bits (204),  Expect = 4e-19, Method: Compositional matrix adjust.
+ Identities = 46/91 (51%), Positives = 48/91 (53%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLLGFLPPKAGGAAAAGGENEVAEFAF  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCHKPCNIFDLQNYCN
+Sbjct  86   KDQMEMMVKRGIVEQCCHKPCNIFDLQNYCN  116
+
+
+>XP_018542510.1 PREDICTED: insulin [Lates calcarifer]
+ XP_018542614.1 PREDICTED: insulin [Lates calcarifer]
+Length=116
+
+ Score = 82.8 bits (203),  Expect = 5e-19, Method: Compositional matrix adjust.
+ Identities = 46/91 (51%), Positives = 48/91 (53%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLLGFLPPKAGGAAATGGENEVAEFAF  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCHKPCNIFDLQNYCN
+Sbjct  86   KDQMEMMVKRGIVEQCCHKPCNIFDLQNYCN  116
+
+
+>XP_029303499.1 insulin [Cottoperca gobio]
+Length=110
+
+ Score = 82.8 bits (203),  Expect = 5e-19, Method: Compositional matrix adjust.
+ Identities = 45/90 (50%), Positives = 49/90 (54%), Gaps = 40/90 (44%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            +A QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  21   SAPQHLCGSHLVDALYLVCGDRGFFYNPKRDVEPLMGFLPPKAGGAAAGGENEVAEFAFK  80
+
+Query  30   ---------GIVEQCCHKPCNIFDLQNYCN  50
+                     GIVEQCCH+PCNIFDLQNYCN
+Sbjct  81   DQMEMMVKRGIVEQCCHQPCNIFDLQNYCN  110
+
+
+>C0HJI7.1 RecName: Full=Insulin-1; Contains: RecName: Full=Insulin-1 B 
+chain; Contains: RecName: Full=Insulin-1 A chain [Huso dauricus]
+Length=58
+
+ Score = 81.3 bits (199),  Expect = 5e-19, Method: Compositional matrix adjust.
+ Identities = 39/53 (74%), Positives = 46/53 (87%), Gaps = 3/53 (6%)
+
+Query  1   AAAQHL-CGSHLVDALYLVCGEKGFFYNPK--GIVEQCCHKPCNIFDLQNYCN  50
+           AA QHL CG+HLV+ALYLVCGE+GFFY P   GIVEQCCH PC+++DL+NYCN
+Sbjct  6   AANQHLWCGAHLVEALYLVCGERGFFYTPNKVGIVEQCCHSPCSLYDLENYCN  58
+
+
+>XP_023259767.1 insulin [Seriola lalandi dorsalis]
+ XP_023259768.1 insulin [Seriola lalandi dorsalis]
+Length=117
+
+ Score = 82.8 bits (203),  Expect = 5e-19, Method: Compositional matrix adjust.
+ Identities = 46/92 (50%), Positives = 48/92 (52%), Gaps = 42/92 (46%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLLGFLPPKAGGAAAAAGGENEVAEFA  85
+
+Query  30   -----------GIVEQCCHKPCNIFDLQNYCN  50
+                       GIVEQCCHKPCNIFDLQNYCN
+Sbjct  86   FKDQMEMMVKRGIVEQCCHKPCNIFDLQNYCN  117
+
+
+>XP_029956970.1 insulin [Salarias fasciatus]
+Length=116
+
+ Score = 82.4 bits (202),  Expect = 7e-19, Method: Compositional matrix adjust.
+ Identities = 45/91 (49%), Positives = 48/91 (53%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLLGFLPAKSTGAATSGGDNEVAEFAY  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCHKPCN+FDLQNYCN
+Sbjct  86   KDQMEMMVKRGIVEQCCHKPCNLFDLQNYCN  116
+
+
+>XP_030638218.1 insulin [Chanos chanos]
+Length=108
+
+ Score = 82.0 bits (201),  Expect = 1e-18, Method: Compositional matrix adjust.
+ Identities = 45/85 (53%), Positives = 47/85 (55%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCG  GFFYNPK                               
+Sbjct  24   AAPQHLCGSHLVDALYLVCGPTGFFYNPKRDVDPLLGFLPPKSGQENEVAEYPFKDHTEL  83
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVEQCCHKPC++FDLQNYCN
+Sbjct  84   LVKRGIVEQCCHKPCSLFDLQNYCN  108
+
+
+>XP_020504597.1 insulin-like [Labrus bergylta]
+ XP_020516994.1 insulin-like [Labrus bergylta]
+Length=121
+
+ Score = 81.3 bits (199),  Expect = 3e-18, Method: Compositional matrix adjust.
+ Identities = 44/95 (46%), Positives = 48/95 (51%), Gaps = 46/95 (48%)
+
+Query  2    AAQHLCGSHLVDALYLVCGEKGFFYNPK--------------------------------  29
+            + QHLCGSHLVDALYLVCGE+GFFYNPK                                
+Sbjct  27   SPQHLCGSHLVDALYLVCGERGFFYNPKRSADTLMGFLPQSAGGAATAGGENEVAEYAFK  86
+
+Query  30   --------------GIVEQCCHKPCNIFDLQNYCN  50
+                          GIVEQCCH+PCN+FDLQNYCN
+Sbjct  87   DLPFKDQMEMMVKRGIVEQCCHRPCNLFDLQNYCN  121
+
+
+>AAK54684.1 preproinsulin, partial [Hiodon alosoides]
+Length=110
+
+ Score = 80.9 bits (198),  Expect = 3e-18, Method: Compositional matrix adjust.
+ Identities = 43/87 (49%), Positives = 47/87 (54%), Gaps = 37/87 (43%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A++QHLCGSHLVDALY+VCGEKGFFY PK                               
+Sbjct  24   ASSQHLCGSHLVDALYMVCGEKGFFYQPKTKRDVDPLLGFLSPKSAQENEADEYPYKDQG  83
+
+Query  30   ------GIVEQCCHKPCNIFDLQNYCN  50
+                  GIVEQCCH+PCNIFDL  YCN
+Sbjct  84   DLKVKRGIVEQCCHRPCNIFDLNQYCN  110
+
+
+>XP_012708882.1 insulin [Fundulus heteroclitus]
+Length=116
+
+ Score = 80.9 bits (198),  Expect = 3e-18, Method: Compositional matrix adjust.
+ Identities = 44/91 (48%), Positives = 47/91 (52%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLLGFLPSKTGTGLTHGGENEVAELAF  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVEQCCH+PC IFDLQNYCN
+Sbjct  86   KDQMEMMVKRGIVEQCCHRPCTIFDLQNYCN  116
+
+
+>P01320.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Camelus dromedarius]
+Length=51
+
+ Score = 79.0 bits (193),  Expect = 3e-18, Method: Compositional matrix adjust.
+ Identities = 37/50 (74%), Positives = 43/50 (86%), Gaps = 1/50 (2%)
+
+Query  2   AAQHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           A QHLCGSHLV+ALYLVCGE+GFFY PK GIVEQCC   C+++ L+NYCN
+Sbjct  2   ANQHLCGSHLVEALYLVCGERGFFYTPKAGIVEQCCASVCSLYQLENYCN  51
+
+
+>P01314.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Balaenoptera borealis]
+Length=51
+
+ Score = 79.0 bits (193),  Expect = 4e-18, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 42/48 (88%), Gaps = 1/48 (2%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK GIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKAGIVEQCCASTCSLYQLENYCN  51
+
+
+>XP_034033537.1 insulin [Thalassophryne amazonica]
+Length=117
+
+ Score = 80.5 bits (197),  Expect = 5e-18, Method: Compositional matrix adjust.
+ Identities = 44/92 (48%), Positives = 48/92 (52%), Gaps = 42/92 (46%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKREVDPLLGFLSPKGDGTKAGTGGENEGAEFA  85
+
+Query  30   -----------GIVEQCCHKPCNIFDLQNYCN  50
+                       GIVEQCCH+PCNIFDLQ+YCN
+Sbjct  86   FKDQMEMMVKRGIVEQCCHRPCNIFDLQSYCN  117
+
+
+>P67973.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Balaenoptera physalus]
+ P67974.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Physeter catodon]
+Length=51
+
+ Score = 78.2 bits (191),  Expect = 7e-18, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 42/48 (88%), Gaps = 1/48 (2%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK GIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKAGIVEQCCTSICSLYQLENYCN  51
+
+
+>pir|A59151| insulin precursor - jack bean (fragments) [Canavalia ensiformis]
+Length=51
+
+ Score = 78.2 bits (191),  Expect = 8e-18, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 42/48 (88%), Gaps = 1/48 (2%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK GIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKAGIVEQCCASVCSLYQLENYCN  51
+
+
+>XP_015204784.1 PREDICTED: insulin-like isoform X3 [Lepisosteus oculatus]
+Length=112
+
+ Score = 79.3 bits (194),  Expect = 1e-17, Method: Compositional matrix adjust.
+ Identities = 43/88 (49%), Positives = 48/88 (55%), Gaps = 38/88 (43%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNP--------------------------------  28
+            AA QHLCGSHLV+ALYLVCGEKGFFYNP                                
+Sbjct  25   AANQHLCGSHLVEALYLVCGEKGFFYNPNKAKRDMEPVLGFLTGKSGQENEVDEYQFKQQ  84
+
+Query  29   ------KGIVEQCCHKPCNIFDLQNYCN  50
+                  +GIVEQCCHKPC I++L+NYCN
+Sbjct  85   GEMKVKRGIVEQCCHKPCTIYELENYCN  112
+
+
+>AAC78289.1 proinsulin-like protein BKRA [synthetic construct]
+Length=54
+
+ Score = 77.8 bits (190),  Expect = 1e-17, Method: Compositional matrix adjust.
+ Identities = 36/50 (72%), Positives = 42/50 (84%), Gaps = 3/50 (6%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK---GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK   GIVEQCC   C+++ L+NYCN
+Sbjct  5   QHLCGSHLVEALYLVCGERGFFYTPKTKRGIVEQCCTSICSLYQLENYCN  54
+
+
+>P01316.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Elephas maximus]
+ pir|INEL| insulin - elephant [Elephantidae gen. sp.]
+Length=51
+
+ Score = 77.4 bits (189),  Expect = 1e-17, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 42/48 (88%), Gaps = 1/48 (2%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK GIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKTGIVEQCCTGVCSLYQLENYCN  51
+
+
+>P01319.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Capra hircus]
+Length=51
+
+ Score = 77.4 bits (189),  Expect = 2e-17, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 42/48 (88%), Gaps = 1/48 (2%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK GIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKAGIVEQCCAGVCSLYQLENYCN  51
+
+
+>AGC54790.1 insulin precursor, partial [synthetic construct]
+Length=63
+
+ Score = 77.4 bits (189),  Expect = 2e-17, Method: Compositional matrix adjust.
+ Identities = 36/50 (72%), Positives = 42/50 (84%), Gaps = 3/50 (6%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNP---KGIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY P   KGIVEQCC   C+++ L+NYCN
+Sbjct  14  QHLCGSHLVEALYLVCGERGFFYTPKAAKGIVEQCCTSICSLYQLENYCN  63
+
+
+>P18109.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Didelphis virginiana]
+Length=51
+
+ Score = 77.0 bits (188),  Expect = 2e-17, Method: Compositional matrix adjust.
+ Identities = 35/48 (73%), Positives = 42/48 (88%), Gaps = 1/48 (2%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK GIVEQCC+  C+++ L+ YCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKAGIVEQCCNSICSLYQLETYCN  51
+
+
+>1SJU_A Chain A, PROINSULIN [Homo sapiens]
+Length=50
+
+ Score = 77.0 bits (188),  Expect = 2e-17, Method: Compositional matrix adjust.
+ Identities = 34/47 (72%), Positives = 40/47 (85%), Gaps = 0/47 (0%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPKGIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGS LV+ALYLVCGE+GFFY  KGIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSDLVEALYLVCGERGFFYTDKGIVEQCCTSICSLYQLENYCN  50
+
+
+>P0C236.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Polypterus senegalus]
+Length=52
+
+ Score = 76.6 bits (187),  Expect = 3e-17, Method: Compositional matrix adjust.
+ Identities = 36/52 (69%), Positives = 43/52 (83%), Gaps = 2/52 (4%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK--GIVEQCCHKPCNIFDLQNYCN  50
+           AA +HLCGSHLV+ALYLVCG +GFFY P   GIVEQCC  PC+++D +NYCN
+Sbjct  1   AANRHLCGSHLVEALYLVCGNRGFFYIPSKMGIVEQCCDTPCSLYDPENYCN  52
+
+
+>P01324.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Acomys cahirinus]
+Length=51
+
+ Score = 76.6 bits (187),  Expect = 3e-17, Method: Compositional matrix adjust.
+ Identities = 35/48 (73%), Positives = 42/48 (88%), Gaps = 1/48 (2%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK GIV+QCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKSGIVDQCCTSICSLYQLENYCN  51
+
+
+>XP_029704669.1 insulin isoform X2 [Takifugu rubripes]
+ XP_029704670.1 insulin isoform X2 [Takifugu rubripes]
+ TWW75327.1 Insulin Insulin B chain [Takifugu flavidus]
+Length=114
+
+ Score = 78.6 bits (192),  Expect = 3e-17, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 46/89 (52%), Gaps = 39/89 (44%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDSMMGFLPPKAGGAAGVDNEVAEYAFKD  85
+
+Query  30   --------GIVEQCCHKPCNIFDLQNYCN  50
+                    GIVEQCC +PCN+ DLQNYCN
+Sbjct  86   QMEMMVKRGIVEQCCLRPCNLLDLQNYCN  114
+
+
+>pir|INHY| insulin - hamster [Cricetinae gen. sp.]
+Length=51
+
+ Score = 76.6 bits (187),  Expect = 3e-17, Method: Compositional matrix adjust.
+ Identities = 35/48 (73%), Positives = 42/48 (88%), Gaps = 1/48 (2%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK GIV+QCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKSGIVDQCCTSICSLYQLENYCN  51
+
+
+>CAF97344.1 unnamed protein product, partial [Tetraodon nigroviridis]
+Length=114
+
+ Score = 78.2 bits (191),  Expect = 4e-17, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 46/89 (52%), Gaps = 39/89 (44%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            A  QHLCGSHLVDALYLVCG++GFFYNPK                               
+Sbjct  26   APPQHLCGSHLVDALYLVCGDRGFFYNPKRDVDPLMGFLPAKAGGAAGGDNEVAEYAFKD  85
+
+Query  30   --------GIVEQCCHKPCNIFDLQNYCN  50
+                    GIVEQCC +PCN+ DLQNYCN
+Sbjct  86   QLEMMVKRGIVEQCCLRPCNLLDLQNYCN  114
+
+
+>5WDM_A Chain A, Single-chain insulin analog [Homo sapiens]
+ 5WDM_B Chain B, Single-chain insulin analog [Homo sapiens]
+ 5WDM_C Chain C, Single-chain insulin analog [Homo sapiens]
+ 5WDM_D Chain D, Single-chain insulin analog [Homo sapiens]
+ 5WDM_E Chain E, Single-chain insulin analog [Homo sapiens]
+ 5WDM_F Chain F, Single-chain insulin analog [Homo sapiens]
+Length=57
+
+ Score = 75.9 bits (185),  Expect = 7e-17, Method: Compositional matrix adjust.
+ Identities = 36/54 (67%), Positives = 42/54 (78%), Gaps = 7/54 (13%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNP-------KGIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY P       +GIVEQCCH  C++  L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPETEEGPRRGIVEQCCHSICSLEQLENYCN  57
+
+
+>ANK79259.1 single chain insulin analog SCI59 [synthetic construct]
+Length=60
+
+ Score = 75.9 bits (185),  Expect = 9e-17, Method: Compositional matrix adjust.
+ Identities = 36/56 (64%), Positives = 42/56 (75%), Gaps = 9/56 (16%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK---------GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK         GIVEQCC   C+++ L+NYCN
+Sbjct  5   QHLCGSHLVEALYLVCGERGFFYTPKTASRGLPFAGIVEQCCTSICSLYQLENYCN  60
+
+
+>ASJ76983.1 single chain insulin analog SCI59 [synthetic construct]
+Length=60
+
+ Score = 75.5 bits (184),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 36/56 (64%), Positives = 42/56 (75%), Gaps = 9/56 (16%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK---------GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK         GIVEQCC   C+++ L+NYCN
+Sbjct  5   QHLCGSHLVEALYLVCGERGFFYTPKTRSRGLPFRGIVEQCCTSICSLYQLENYCN  60
+
+
+>AOR50935.1 mini-insulin, partial [synthetic construct]
+Length=88
+
+ Score = 76.3 bits (186),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 36/58 (62%), Positives = 42/58 (72%), Gaps = 11/58 (19%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK-----------GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK           GIVEQCC   C+++ L+NYCN
+Sbjct  11  QHLCGSHLVEALYLVCGERGFFYTPKTRRGGPSGGKRGIVEQCCTSICSLYQLENYCN  68
+
+
+>XP_026777620.1 insulin [Pangasianodon hypophthalmus]
+ KAB5522706.1 hypothetical protein PHYPO_G00162570 [Pangasianodon hypophthalmus]
+Length=108
+
+ Score = 76.6 bits (187),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 43/85 (51%), Positives = 45/85 (53%), Gaps = 35/85 (41%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCG  GFFYNPK                               
+Sbjct  24   AAPQHLCGSHLVDALYLVCGPNGFFYNPKREVDPLLGFLPPKSAPEGELAEYPYKDYSEL  83
+
+Query  30   ----GIVEQCCHKPCNIFDLQNYCN  50
+                GIVE CCHKPC++ DLQNYCN
+Sbjct  84   MVKRGIVELCCHKPCSLHDLQNYCN  108
+
+
+>ABP93829.1 mini-proinsulin, partial [synthetic construct]
+Length=59
+
+ Score = 75.1 bits (183),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 36/56 (64%), Positives = 42/56 (75%), Gaps = 9/56 (16%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK---------GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK         GIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKTRRSPNGKRGIVEQCCTSICSLYQLENYCN  59
+
+
+>P12708.1 RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; 
+Contains: RecName: Full=Insulin A chain [Ptyas dhumnades]
+Length=51
+
+ Score = 75.1 bits (183),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 32/51 (63%), Positives = 44/51 (86%), Gaps = 1/51 (2%)
+
+Query  1   AAAQHLCGSHLVDALYLVCGEKGFFYNPK-GIVEQCCHKPCNIFDLQNYCN  50
+           A  Q LCGSHLV+AL+L+CGE+GF+Y+P+ GIVEQCC   C++++L+NYCN
+Sbjct  1   APNQRLCGSHLVEALFLICGERGFYYSPRTGIVEQCCENTCSLYELENYCN  51
+
+
+>1ZEI_A Chain A, Insulin [Sus scrofa]
+ 1ZEI_B Chain B, Insulin [Sus scrofa]
+ 1ZEI_C Chain C, Insulin [Sus scrofa]
+ 1ZEI_D Chain D, Insulin [Sus scrofa]
+ 1ZEI_E Chain E, Insulin [Sus scrofa]
+ 1ZEI_F Chain F, Insulin [Sus scrofa]
+Length=53
+
+ Score = 75.1 bits (183),  Expect = 1e-16, Method: Compositional matrix adjust.
+ Identities = 35/50 (70%), Positives = 41/50 (82%), Gaps = 3/50 (6%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYN---PKGIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY     KGIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTDKAAKGIVEQCCTSICSLYQLENYCN  53
+
+
+>1EFE_A Chain A, An Active Mini-Proinsulin, M2pi [Homo sapiens]
+Length=60
+
+ Score = 74.7 bits (182),  Expect = 2e-16, Method: Compositional matrix adjust.
+ Identities = 36/57 (63%), Positives = 42/57 (74%), Gaps = 10/57 (18%)
+
+Query  4   QHLCGSHLVDALYLVCGEKGFFYNPK----------GIVEQCCHKPCNIFDLQNYCN  50
+           QHLCGSHLV+ALYLVCGE+GFFY PK          GIVEQCC   C+++ L+NYCN
+Sbjct  4   QHLCGSHLVEALYLVCGERGFFYTPKTRRYPGDVKRGIVEQCCTSICSLYQLENYCN  60
+
+
+>XP_030293054.1 insulin-like [Sparus aurata]
+Length=116
+
+ Score = 76.3 bits (186),  Expect = 2e-16, Method: Compositional matrix adjust.
+ Identities = 43/91 (47%), Positives = 46/91 (51%), Gaps = 41/91 (45%)
+
+Query  1    AAAQHLCGSHLVDALYLVCGEKGFFYNPK-------------------------------  29
+            AA QHLCGSHLVDALYLVCGEKGFFYN K                               
+Sbjct  26   AAEQHLCGSHLVDALYLVCGEKGFFYNSKRDVNPLMGFLPPKAGGAAAAGGANEVAEFAF  85
+
+Query  30   ----------GIVEQCCHKPCNIFDLQNYCN  50
+                      GIVE+CCH+PC+I  LQNYCN
+Sbjct  86   KDQMEMLVKRGIVEECCHRPCSILHLQNYCN  116
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jul 8, 2020  1:59 AM
+  Number of letters in database: 106,311,842,569
+  Number of sequences in database:  295,192,992
+
+Lambda      K        H
+   0.329    0.144    0.513 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 295192992
+Number of Hits to DB: 1717541
+Number of extensions: 772
+Number of successful extensions: 289
+Number of sequences better than 100: 39
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 274
+Number of HSP's successfully gapped: 47
+Length of query: 50
+Length of database: 106311842569
+Length adjustment: 23
+Effective length of query: 27
+Effective length of database: 99522403753
+Effective search space: 2687104901331
+Effective search space used: 2687104901331
+T: 21
+A: 40
+X1: 15 (7.1 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 40 (20.0 bits)
+S2: 78 (34.7 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+

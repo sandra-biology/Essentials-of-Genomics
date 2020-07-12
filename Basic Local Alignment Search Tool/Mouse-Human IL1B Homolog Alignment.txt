@@ -1,0 +1,1052 @@
+BLASTP 2.10.1+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: GHPKRZHJ014
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           295,192,992 sequences; 106,311,842,569 total letters
+Query= NP_032387.1 interleukin-1 beta [Mus musculus]
+
+Length=269
+
+
+                                                                   Score     E      Max
+Sequences producing significant alignments:                       (Bits)  Value   Ident
+
+NP_000567.1 interleukin-1 beta proprotein [Homo sapiens]           355     2e-123  68%         
+EAW73607.1 interleukin 1, beta, isoform CRA_c [Homo sapiens]       355     3e-123  68%         
+AAA36106.1 interleukin 1 precursor polypeptide [Homo sapiens]      353     8e-123  68%         
+AAA59136.1 interleukin 1 precursor [Homo sapiens]                  347     3e-120  67%         
+XP_016859477.1 interleukin-1 beta isoform X1 [Homo sapiens]        323     3e-111  69%         
+EAW73606.1 interleukin 1, beta, isoform CRA_b [Homo sapiens]       259     1e-86   68%         
+5MVZ_U Chain U, Interleukin-1 beta [Homo sapiens]                  244     5e-81   76%         
+41BI_A Chain A, Interleukin-1 Beta (Il-1 Beta) (Mutant With Cy...  243     7e-81   78%         
+AAC03536.1 interleukin 1 beta [Homo sapiens]                       242     1e-80   78%         
+1I1B_A Chain A, INTERLEUKIN-1 BETA [Homo sapiens]                  241     2e-80   78%         
+1HIB_A Chain A, INTERLEUKIN-1 BETA [Homo sapiens]                  241     3e-80   78%         
+4G6J_A Chain A, Interleukin-1 Beta [Homo sapiens]                  241     3e-80   78%         
+3O4O_A Chain A, Crystal Structure Of An Interleukin-1 Receptor...  241     4e-80   78%         
+1TWM_A Chain A, Interleukin-1 Beta Mutant F146y [Homo sapiens]     240     5e-80   77%         
+1TWE_A Chain A, Interleukin-1 beta [Homo sapiens]                  240     5e-80   77%         
+1T4Q_A Chain A, Interleukin 1 Beta F101w [Homo sapiens]            239     2e-79   77%         
+1TOO_A Chain A, Interleukin-1 Beta [Homo sapiens]                  239     2e-79   77%         
+1S0L_A Chain A, Interleukin 1 Beta Mutant F42w [Homo sapiens]      239     2e-79   77%         
+21BI_A Chain A, Interleukin-1 Beta (Il-1 Beta) (Mutant With Cy...  239     2e-79   77%         
+31BI_A Chain A, Interleukin-1 Beta (Il-1 Beta) (Mutant With Cy...  238     4e-79   77%         
+4G6M_A Chain A, Interleukin-1 beta [Homo sapiens]                  238     5e-79   78%         
+1L2H_A Chain A, Crystal Structure Of Interleukin 1-Beta F42wW1...  235     5e-78   76%         
+1TP0_A Chain A, Interleukin-1 Beta [Homo sapiens]                  235     5e-78   76%         
+3LTQ_A Chain A, Interleukin-1 beta [Homo sapiens]                  230     1e-75   70%         
+3POK_A Chain A, Interleukin-1 Beta [Homo sapiens]                  228     4e-75   72%         
+4GAF_A Chain A, EBI-005 [Homo sapiens]                             176     8e-55   60%         
+NP_775270.1 interleukin-36 beta isoform 2 [Homo sapiens]           61.2    2e-10   33%         
+NP_001305843.1 interleukin-1 receptor antagonist protein isofo...  59.7    5e-10   32%         
+NP_000568.1 interleukin-1 receptor antagonist protein isoform ...  59.3    9e-10   32%         
+1IRP_A Chain A, INTERLEUKIN-1 RECEPTOR ANTAGONIST [Homo sapiens]   58.9    1e-09   32%         
+1ILR_1 Chain 1, INTERLEUKIN-1 RECEPTOR ANTAGONIST PROTEIN [Hom...  58.9    1e-09   32%         
+NP_776214.1 interleukin-1 receptor antagonist protein isoform ...  59.3    1e-09   32%         
+NP_776213.1 interleukin-1 receptor antagonist protein isoform ...  59.3    1e-09   32%         
+NP_115945.4 interleukin-1 family member 10 [Homo sapiens]          52.0    2e-07   31%         
+AAK01948.1 interleukin-1 receptor antagonist FKSG75 [Homo sapi...  51.6    3e-07   31%         
+AAI03967.1 Interleukin 1 family, member 10 (theta) [Homo sapiens]  51.6    4e-07   32%         
+5BOW_A Chain A, Interleukin-1 family member 10 [Homo sapiens]      51.6    4e-07   32%         
+EAW73614.1 interleukin 1 family, member 6 (epsilon) [Homo sapi...  33.9    0.35    34%         
+NP_055255.1 interleukin-36 alpha [Homo sapiens]                    33.9    0.49    34%         
+AAI07043.1 Interleukin 1 family, member 6 (epsilon) [Homo sapi...  33.9    0.53    34%         
+AAB19977.1 interleukin 1 beta, IL-1 beta [human, skin, Peptide...  30.0    1.2     64%         
+NP_055253.2 interleukin-36 beta isoform 1 [Homo sapiens]           32.3    1.7     35%         
+
+ALIGNMENTS
+>NP_000567.1 interleukin-1 beta proprotein [Homo sapiens]
+ P01584.2 RecName: Full=Interleukin-1 beta; Short=IL-1 beta; AltName: Full=Catabolin; 
+Flags: Precursor [Homo sapiens]
+ AAA59135.1 interleukin 1-beta [Homo sapiens]
+ AAA74137.1 interleukin 1-beta [Homo sapiens]
+Length=269
+
+ Score = 355 bits (910),  Expect = 2e-123, Method: Compositional matrix adjust.
+ Identities = 185/272 (68%), Positives = 216/272 (79%), Gaps = 6/272 (2%)
+
+Query  1    MATVPELNCEMPPFDS-DENDLFFEVDGPQKMKGCFQTFDLGCP-DESIQLQISQQHINK  58
+            MA VPEL  EM  + S +E+DLFFE DGP++MK  FQ  DL CP D  IQL+IS  H +K
+Sbjct  1    MAEVPELASEMMAYYSGNEDDLFFEADGPKQMKCSFQDLDL-CPLDGGIQLRISDHHYSK  59
+
+Query  59   SFRQAVSLIVAVEKLWQLPVSFPWTFQDEDMSTFFSFIFEEEPILCDSWDDDDNLLVCDV  118
+             FRQA S++VA++KL ++ V  P TFQ+ D+STFF FIFEEEPI  D+WD++    V D 
+Sbjct  60   GFRQAASVVVAMDKLRKMLVPCPQTFQENDLSTFFPFIFEEEPIFFDTWDNE--AYVHDA  117
+
+Query  119  PIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALG  178
+            P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVALG
+Sbjct  118  PVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALG  177
+
+Query  179  LKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNWY  238
+            LK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNWY
+Sbjct  178  LKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNWY  237
+
+Query  239  ISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            ISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  238  ISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  269
+
+
+>EAW73607.1 interleukin 1, beta, isoform CRA_c [Homo sapiens]
+Length=303
+
+ Score = 355 bits (912),  Expect = 3e-123, Method: Compositional matrix adjust.
+ Identities = 185/272 (68%), Positives = 216/272 (79%), Gaps = 6/272 (2%)
+
+Query  1    MATVPELNCEMPPFDS-DENDLFFEVDGPQKMKGCFQTFDLGCP-DESIQLQISQQHINK  58
+            MA VPEL  EM  + S +E+DLFFE DGP++MK  FQ  DL CP D  IQL+IS  H +K
+Sbjct  35   MAEVPELASEMMAYYSGNEDDLFFEADGPKQMKCSFQDLDL-CPLDGGIQLRISDHHYSK  93
+
+Query  59   SFRQAVSLIVAVEKLWQLPVSFPWTFQDEDMSTFFSFIFEEEPILCDSWDDDDNLLVCDV  118
+             FRQA S++VA++KL ++ V  P TFQ+ D+STFF FIFEEEPI  D+WD++    V D 
+Sbjct  94   GFRQAASVVVAMDKLRKMLVPCPQTFQENDLSTFFPFIFEEEPIFFDTWDNE--AYVHDA  151
+
+Query  119  PIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALG  178
+            P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVALG
+Sbjct  152  PVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALG  211
+
+Query  179  LKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNWY  238
+            LK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNWY
+Sbjct  212  LKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNWY  271
+
+Query  239  ISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            ISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  272  ISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  303
+
+
+>AAA36106.1 interleukin 1 precursor polypeptide [Homo sapiens]
+ CAG28607.1 IL1B, partial [Homo sapiens]
+Length=269
+
+ Score = 353 bits (906),  Expect = 8e-123, Method: Compositional matrix adjust.
+ Identities = 184/272 (68%), Positives = 216/272 (79%), Gaps = 6/272 (2%)
+
+Query  1    MATVPELNCEMPPFDS-DENDLFFEVDGPQKMKGCFQTFDLGCP-DESIQLQISQQHINK  58
+            MA VP+L  EM  + S +E+DLFFE DGP++MK  FQ  DL CP D  IQL+IS  H +K
+Sbjct  1    MAEVPKLASEMMAYYSGNEDDLFFEADGPKQMKCSFQDLDL-CPLDGGIQLRISDHHYSK  59
+
+Query  59   SFRQAVSLIVAVEKLWQLPVSFPWTFQDEDMSTFFSFIFEEEPILCDSWDDDDNLLVCDV  118
+             FRQA S++VA++KL ++ V  P TFQ+ D+STFF FIFEEEPI  D+WD++    V D 
+Sbjct  60   GFRQAASVVVAMDKLRKMLVPCPQTFQENDLSTFFPFIFEEEPIFFDTWDNE--AYVHDA  117
+
+Query  119  PIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALG  178
+            P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVALG
+Sbjct  118  PVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALG  177
+
+Query  179  LKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNWY  238
+            LK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNWY
+Sbjct  178  LKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNWY  237
+
+Query  239  ISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            ISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  238  ISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  269
+
+
+>AAA59136.1 interleukin 1 precursor [Homo sapiens]
+Length=269
+
+ Score = 347 bits (889),  Expect = 3e-120, Method: Compositional matrix adjust.
+ Identities = 182/272 (67%), Positives = 213/272 (78%), Gaps = 6/272 (2%)
+
+Query  1    MATVPELNCEMPPFDS-DENDLFFEVDGPQKMKGCFQTFDLGCP-DESIQLQISQQHINK  58
+            MA VP+L  EM  + S +E+DLFFE DGP++MK  FQ  DL CP D  IQL+IS  H +K
+Sbjct  1    MAEVPKLASEMMAYYSGNEHDLFFEADGPKQMKCSFQDLDL-CPLDGGIQLRISDHHYSK  59
+
+Query  59   SFRQAVSLIVAVEKLWQLPVSFPWTFQDEDMSTFFSFIFEEEPILCDSWDDDDNLLVCDV  118
+             FRQA S++VA++KL ++ V  P TFQ+ D+STFF FIFEEEPI  D+WD+     V D 
+Sbjct  60   GFRQAASVVVAMDKLRKMLVPCPQTFQENDLSTFFPFIFEEEPIFFDTWDN--QAYVHDA  117
+
+Query  119  PIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALG  178
+            P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL 
+Sbjct  118  PVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALA  177
+
+Query  179  LKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNWY  238
+            LK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEK FVFNKIE+ +K+EFESA+FPNWY
+Sbjct  178  LKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKPFVFNKIEINNKLEFESAQFPNWY  237
+
+Query  239  ISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            ISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  238  ISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  269
+
+
+>XP_016859477.1 interleukin-1 beta isoform X1 [Homo sapiens]
+Length=238
+
+ Score = 323 bits (827),  Expect = 3e-111, Method: Compositional matrix adjust.
+ Identities = 167/241 (69%), Positives = 193/241 (80%), Gaps = 5/241 (2%)
+
+Query  31   MKGCFQTFDLGCP-DESIQLQISQQHINKSFRQAVSLIVAVEKLWQLPVSFPWTFQDEDM  89
+            MK  FQ  DL CP D  IQL+IS  H +K FRQA S++VA++KL ++ V  P TFQ+ D+
+Sbjct  1    MKCSFQDLDL-CPLDGGIQLRISDHHYSKGFRQAASVVVAMDKLRKMLVPCPQTFQENDL  59
+
+Query  90   STFFSFIFEEEPILCDSWDDDDNLLVCDVPIRQLHYRLRDEQQKSLVLSDPYELKALHLN  149
+            STFF FIFEEEPI  D+WD++    V D P+R L+  LRD QQKSLV+S PYELKALHL 
+Sbjct  60   STFFPFIFEEEPIFFDTWDNE--AYVHDAPVRSLNCTLRDSQQKSLVMSGPYELKALHLQ  117
+
+Query  150  GQNINQQVIFSMSFVQGEPSNDKIPVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQYPK  209
+            GQ++ QQV+FSMSFVQGE SNDKIPVALGLK KNLYLSCV+KD  PTLQLESVDPK YPK
+Sbjct  118  GQDMEQQVVFSMSFVQGEESNDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKNYPK  177
+
+Query  210  KKMEKRFVFNKIEVKSKVEFESAEFPNWYISTSQAEHKPVFLGNN-SGQDIIDFTMESVS  268
+            KKMEKRFVFNKIE+ +K+EFESA+FPNWYISTSQAE+ PVFLG    GQDI DFTM+ VS
+Sbjct  178  KKMEKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDFTMQFVS  237
+
+Query  269  S  269
+            S
+Sbjct  238  S  238
+
+
+>EAW73606.1 interleukin 1, beta, isoform CRA_b, partial [Homo sapiens]
+Length=195
+
+ Score = 259 bits (661),  Expect = 1e-86, Method: Compositional matrix adjust.
+ Identities = 134/198 (68%), Positives = 157/198 (79%), Gaps = 4/198 (2%)
+
+Query  31   MKGCFQTFDLGCP-DESIQLQISQQHINKSFRQAVSLIVAVEKLWQLPVSFPWTFQDEDM  89
+            MK  FQ  DL CP D  IQL+IS  H +K FRQA S++VA++KL ++ V  P TFQ+ D+
+Sbjct  1    MKCSFQDLDL-CPLDGGIQLRISDHHYSKGFRQAASVVVAMDKLRKMLVPCPQTFQENDL  59
+
+Query  90   STFFSFIFEEEPILCDSWDDDDNLLVCDVPIRQLHYRLRDEQQKSLVLSDPYELKALHLN  149
+            STFF FIFEEEPI  D+WD++    V D P+R L+  LRD QQKSLV+S PYELKALHL 
+Sbjct  60   STFFPFIFEEEPIFFDTWDNE--AYVHDAPVRSLNCTLRDSQQKSLVMSGPYELKALHLQ  117
+
+Query  150  GQNINQQVIFSMSFVQGEPSNDKIPVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQYPK  209
+            GQ++ QQV+FSMSFVQGE SNDKIPVALGLK KNLYLSCV+KD  PTLQLESVDPK YPK
+Sbjct  118  GQDMEQQVVFSMSFVQGEESNDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKNYPK  177
+
+Query  210  KKMEKRFVFNKIEVKSKV  227
+            KKMEKRFVFNKIE+ +K+
+Sbjct  178  KKMEKRFVFNKIEINNKL  195
+
+
+>5MVZ_U Chain U, Interleukin-1 beta [Homo sapiens]
+ 5MVZ_V Chain V, Interleukin-1 beta [Homo sapiens]
+Length=177
+
+ Score = 244 bits (622),  Expect = 5e-81, Method: Compositional matrix adjust.
+ Identities = 121/160 (76%), Positives = 135/160 (84%), Gaps = 1/160 (1%)
+
+Query  111  DNLLVCDVPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSN  170
+            +NL     P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SN
+Sbjct  18   ENLYFQGAPVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESN  77
+
+Query  171  DKIPVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFE  230
+            DKIPVALGLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFE
+Sbjct  78   DKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFE  137
+
+Query  231  SAEFPNWYISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            SA+FPNWYISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  138  SAQFPNWYISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  177
+
+
+>41BI_A Chain A, Interleukin-1 Beta (Il-1 Beta) (Mutant With Cys 8 Replaced 
+By Ala (C8a) [Homo sapiens]
+Length=153
+
+ Score = 243 bits (619),  Expect = 7e-81, Method: Compositional matrix adjust.
+ Identities = 119/153 (78%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNATLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>AAC03536.1 interleukin 1 beta, partial [Homo sapiens]
+Length=153
+
+ Score = 242 bits (617),  Expect = 1e-80, Method: Compositional matrix adjust.
+ Identities = 119/153 (78%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLYCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>1I1B_A Chain A, INTERLEUKIN-1 BETA [Homo sapiens]
+ 1IOB_A Chain A, INTERLEUKIN-1 BETA [Homo sapiens]
+ 1ITB_A Chain A, Type-1 Interleukin-1 Receptor Complexed With Interleukin-1 
+Beta [Homo sapiens]
+ 2I1B_A Chain A, INTERLEUKIN-1 BETA [Homo sapiens]
+ 2KH2_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 2NVH_A Chain A, Interleukin-1 Beta [Homo sapiens]
+ 4I1B_A Chain A, Functional Implications Of Interleukin-1beta Based On 
+The Three-Dimensional Structure [Homo sapiens]
+ 5BVP_I Chain I, Interleukin-1 beta [Homo sapiens]
+ 5I1B_A Chain A, INTERLEUKIN-1 BETA [Homo sapiens]
+ 5R7W_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R85_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R86_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R87_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R88_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R89_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8A_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8B_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8C_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8D_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8E_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8F_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8G_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8H_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8I_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8J_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8K_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8L_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8M_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8N_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8O_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8P_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 5R8Q_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 6I1B_A Chain A, INTERLEUKIN-1 BETA [Homo sapiens]
+ 6Y8I_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 6Y8M_A Chain A, Interleukin-1 beta [Homo sapiens]
+ 7I1B_A Chain A, INTERLEUKIN-1 BETA [Homo sapiens]
+ 9ILB_A Chain A, Human Interleukin-1 Beta [Homo sapiens]
+ BAG70308.1 interleukin-1 beta precursor, partial [Homo sapiens]
+Length=153
+
+ Score = 241 bits (616),  Expect = 2e-80, Method: Compositional matrix adjust.
+ Identities = 119/153 (78%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>1HIB_A Chain A, INTERLEUKIN-1 BETA [Homo sapiens]
+Length=153
+
+ Score = 241 bits (615),  Expect = 3e-80, Method: Compositional matrix adjust.
+ Identities = 119/153 (78%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCGLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>4G6J_A Chain A, Interleukin-1 Beta [Homo sapiens]
+Length=158
+
+ Score = 241 bits (615),  Expect = 3e-80, Method: Compositional matrix adjust.
+ Identities = 119/153 (78%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  2    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  61
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  62   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  121
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  122  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  154
+
+
+>3O4O_A Chain A, Crystal Structure Of An Interleukin-1 Receptor Complex 
+[Homo sapiens]
+ 4DEP_A Chain A, Interleukin-1 Beta [Homo sapiens]
+ 4DEP_D Chain D, Interleukin-1 Beta [Homo sapiens]
+Length=158
+
+ Score = 241 bits (614),  Expect = 4e-80, Method: Compositional matrix adjust.
+ Identities = 119/153 (78%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  6    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  65
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  66   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  125
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  126  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  158
+
+
+>1TWM_A Chain A, Interleukin-1 Beta Mutant F146y [Homo sapiens]
+Length=153
+
+ Score = 240 bits (613),  Expect = 5e-80, Method: Compositional matrix adjust.
+ Identities = 118/153 (77%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI D+TM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDYTMQFVSS  153
+
+
+>1TWE_A Chain A, Interleukin-1 beta [Homo sapiens]
+Length=153
+
+ Score = 240 bits (613),  Expect = 5e-80, Method: Compositional matrix adjust.
+ Identities = 118/153 (77%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFV+NKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVYNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>1T4Q_A Chain A, Interleukin 1 Beta F101w [Homo sapiens]
+Length=153
+
+ Score = 239 bits (609),  Expect = 2e-79, Method: Compositional matrix adjust.
+ Identities = 118/153 (77%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFV+NKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVWNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>1TOO_A Chain A, Interleukin-1 Beta [Homo sapiens]
+Length=153
+
+ Score = 239 bits (609),  Expect = 2e-79, Method: Compositional matrix adjust.
+ Identities = 118/153 (77%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI D+TM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDWTMQFVSS  153
+
+
+>1S0L_A Chain A, Interleukin 1 Beta Mutant F42w [Homo sapiens]
+Length=153
+
+ Score = 239 bits (609),  Expect = 2e-79, Method: Compositional matrix adjust.
+ Identities = 118/153 (77%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV++SMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVWSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>21BI_A Chain A, Interleukin-1 Beta (Il-1 Beta) (Mutant With Cys 71 Replaced 
+By Ala) (C71a) [Homo sapiens]
+Length=153
+
+ Score = 239 bits (609),  Expect = 2e-79, Method: Compositional matrix adjust.
+ Identities = 118/153 (77%), Positives = 131/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLS V+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSAVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>31BI_A Chain A, Interleukin-1 Beta (Il-1 Beta) (Mutant With Cys 71 Replaced 
+By Ser) (C71s) [Homo sapiens]
+Length=153
+
+ Score = 238 bits (607),  Expect = 4e-79, Method: Compositional matrix adjust.
+ Identities = 118/153 (77%), Positives = 131/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLS V+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSSVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>4G6M_A Chain A, Interleukin-1 beta [Homo sapiens]
+Length=150
+
+ Score = 238 bits (606),  Expect = 5e-79, Method: Compositional matrix adjust.
+ Identities = 117/150 (78%), Positives = 130/150 (87%), Gaps = 1/150 (1%)
+
+Query  119  PIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALG  178
+            P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVALG
+Sbjct  1    PVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALG  60
+
+Query  179  LKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNWY  238
+            LK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNWY
+Sbjct  61   LKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNWY  120
+
+Query  239  ISTSQAEHKPVFLGNN-SGQDIIDFTMESV  267
+            ISTSQAE+ PVFLG    GQDI DFTM+ V
+Sbjct  121  ISTSQAENMPVFLGGTKGGQDITDFTMQFV  150
+
+
+>1L2H_A Chain A, Crystal Structure Of Interleukin 1-Beta F42wW120F MUTANT 
+[Homo sapiens]
+Length=153
+
+ Score = 235 bits (600),  Expect = 5e-78, Method: Compositional matrix adjust.
+ Identities = 117/153 (76%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV++SMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVWSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPN+
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNF  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  153
+
+
+>1TP0_A Chain A, Interleukin-1 Beta [Homo sapiens]
+Length=153
+
+ Score = 235 bits (600),  Expect = 5e-78, Method: Compositional matrix adjust.
+ Identities = 116/153 (76%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV++SMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVWSMSFVQGEESNDKIPVAL  60
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFV+NKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVWNKIEINNKLEFESAQFPNW  120
+
+Query  238  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            YISTSQAE+ PVFLG    GQDI D+TM+ VSS
+Sbjct  121  YISTSQAENMPVFLGGTKGGQDITDWTMQFVSS  153
+
+
+>3LTQ_A Chain A, Interleukin-1 beta [Homo sapiens]
+Length=171
+
+ Score = 230 bits (587),  Expect = 1e-75, Method: Compositional matrix adjust.
+ Identities = 119/170 (70%), Positives = 132/170 (78%), Gaps = 18/170 (11%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSN-------  170
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SN       
+Sbjct  2    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNGYIDTNN  61
+
+Query  171  ----------DKIPVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNK  220
+                      DKIPVALGLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNK
+Sbjct  62   DGWIEGDELYDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNK  121
+
+Query  221  IEVKSKVEFESAEFPNWYISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            IE+ +K+EFESA+FPNWYISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  122  IEINNKLEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  171
+
+
+>3POK_A Chain A, Interleukin-1 Beta [Homo sapiens]
+Length=167
+
+ Score = 228 bits (582),  Expect = 4e-75, Method: Compositional matrix adjust.
+ Identities = 119/166 (72%), Positives = 132/166 (80%), Gaps = 14/166 (8%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  2    APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  61
+
+Query  178  GLKGKNLYLSCVM------KDG-------TPTLQLESVDPKQYPKKKMEKRFVFNKIEVK  224
+            GLK KNLYLSCV+       DG        PTLQLESVDPK YPKKKMEKRFVFNKIE+ 
+Sbjct  62   GLKEKNLYLSCVLGYIDTNNDGWIEGDELYPTLQLESVDPKNYPKKKMEKRFVFNKIEIN  121
+
+Query  225  SKVEFESAEFPNWYISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+            +K+EFESA+FPNWYISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  122  NKLEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  167
+
+
+>4GAF_A Chain A, EBI-005 [Homo sapiens]
+ 4GAI_A Chain A, EBI-005 [Homo sapiens]
+ 4GAI_B Chain B, EBI-005 [Homo sapiens]
+Length=153
+
+ Score = 176 bits (447),  Expect = 8e-55, Method: Compositional matrix adjust.
+ Identities = 93/154 (60%), Positives = 114/154 (74%), Gaps = 3/154 (2%)
+
+Query  118  VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  177
+             P+R L+ R+ D  QK+  L +  +L A +L G N+N +  FSMSFVQGE SNDKIPVAL
+Sbjct  1    APVRSLNCRIWDVNQKTFYLRN-NQLVAGYLQGPNVNLEEKFSMSFVQGEESNDKIPVAL  59
+
+Query  178  GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  237
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  60   GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  119
+
+Query  238  YISTSQAEHKPVFLGN--NSGQDIIDFTMESVSS  269
+            ++ T+    +PV L N  + G  +  F M+ VSS
+Sbjct  120  FLCTAMEADQPVSLTNMPDEGVMVTKFYMQFVSS  153
+
+
+>NP_775270.1 interleukin-36 beta isoform 2 [Homo sapiens]
+ XP_011509264.1 interleukin-36 beta isoform X1 [Homo sapiens]
+ AAF25213.1 FIL1 eta [Homo sapiens]
+ AAI01832.1 Interleukin 1 family, member 8 (eta) [Homo sapiens]
+ AAI01834.1 Interleukin 1 family, member 8 (eta) [Homo sapiens]
+ EAW73615.1 interleukin 1 family, member 8 (eta), isoform CRA_a [Homo sapiens]
+ CAD29876.1 TPA: IL-1F8 (FIL1-eta) [Homo sapiens]
+Length=157
+
+ Score = 61.2 bits (147),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 49/148 (33%), Positives = 74/148 (50%), Gaps = 8/148 (5%)
+
+Query  125  YRLRDEQQKSLVLSDPYELKA-LHLNGQNINQQVIFS--MSFVQGEPSNDKIPVALGLKG  181
+            Y +RD +Q   VLS    + A L  + + +   +I      F   E  N    V LG+KG
+Sbjct  12   YAIRDSRQMVWVLSGNSLIAAPLSRSIKPVTLHLIACRDTEFSDKEKGN---MVYLGIKG  68
+
+Query  182  KNLYLSCVMKDGTPTLQLESVDPKQ-YPKKKMEKRFVFNKIEVKSKVEFESAEFPNWYIS  240
+            K+L L C    G PTLQL+  +    Y +KK +K F+F   +  S   F+S  +P W+I+
+Sbjct  69   KDLCLFCAEIQGKPTLQLKEKNIMDLYVEKKAQKPFLFFHNKEGSTSVFQSVSYPGWFIA  128
+
+Query  241  TSQAEHKPVFLGNNSG-QDIIDFTMESV  267
+            TS    +P+FL    G  +  +F ++SV
+Sbjct  129  TSTTSGQPIFLTKERGITNNTNFYLDSV  156
+
+
+>NP_001305843.1 interleukin-1 receptor antagonist protein isoform 4 [Homo sapiens]
+ NP_001366289.1 interleukin-1 receptor antagonist protein isoform 4 [Homo sapiens]
+ NP_776215.1 interleukin-1 receptor antagonist protein isoform 4 [Homo sapiens]
+ XP_011509423.1 interleukin-1 receptor antagonist protein isoform X1 [Homo sapiens]
+ AAC39672.1 interleukin-1 intracellular receptor antagonist variant, partial 
+[Homo sapiens]
+ EAW73621.1 interleukin 1 receptor antagonist, isoform CRA_a [Homo sapiens]
+ EAW73623.1 interleukin 1 receptor antagonist, isoform CRA_a [Homo sapiens]
+ EAW73624.1 interleukin 1 receptor antagonist, isoform CRA_a [Homo sapiens]
+Length=143
+
+ Score = 59.7 bits (143),  Expect = 5e-10, Method: Compositional matrix adjust.
+ Identities = 42/130 (32%), Positives = 65/130 (50%), Gaps = 8/130 (6%)
+
+Query  125  YRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALGLKGKNL  184
+            +R+ D  QK+  L +  +L A +L G N+N +    +  V  EP      + LG+ G  +
+Sbjct  4    FRIWDVNQKTFYLRN-NQLVAGYLQGPNVNLEE--KIDVVPIEPH----ALFLGIHGGKM  56
+
+Query  185  YLSCVMKDGTPTLQLESVDPKQYPK-KKMEKRFVFNKIEVKSKVEFESAEFPNWYISTSQ  243
+             LSCV       LQLE+V+     + +K +KRF F + +      FESA  P W++ T+ 
+Sbjct  57   CLSCVKSGDETRLQLEAVNITDLSENRKQDKRFAFIRSDSGPTTSFESAACPGWFLCTAM  116
+
+Query  244  AEHKPVFLGN  253
+               +PV L N
+Sbjct  117  EADQPVSLTN  126
+
+
+>NP_000568.1 interleukin-1 receptor antagonist protein isoform 3 [Homo sapiens]
+ AAA59138.1 IL1RN [Homo sapiens]
+ AAB92268.1 IL-1 receptor antagonist IL-1Ra, short intracellular form [Homo 
+sapiens]
+ AAH09745.1 Interleukin 1 receptor antagonist [Homo sapiens]
+Length=159
+
+ Score = 59.3 bits (142),  Expect = 9e-10, Method: Compositional matrix adjust.
+ Identities = 42/130 (32%), Positives = 65/130 (50%), Gaps = 8/130 (6%)
+
+Query  125  YRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALGLKGKNL  184
+            +R+ D  QK+  L +  +L A +L G N+N +    +  V  EP      + LG+ G  +
+Sbjct  20   FRIWDVNQKTFYLRN-NQLVAGYLQGPNVNLEE--KIDVVPIEPH----ALFLGIHGGKM  72
+
+Query  185  YLSCVMKDGTPTLQLESVDPKQYPK-KKMEKRFVFNKIEVKSKVEFESAEFPNWYISTSQ  243
+             LSCV       LQLE+V+     + +K +KRF F + +      FESA  P W++ T+ 
+Sbjct  73   CLSCVKSGDETRLQLEAVNITDLSENRKQDKRFAFIRSDSGPTTSFESAACPGWFLCTAM  132
+
+Query  244  AEHKPVFLGN  253
+               +PV L N
+Sbjct  133  EADQPVSLTN  142
+
+
+>1IRP_A Chain A, INTERLEUKIN-1 RECEPTOR ANTAGONIST [Homo sapiens]
+Length=153
+
+ Score = 58.9 bits (141),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 42/130 (32%), Positives = 65/130 (50%), Gaps = 8/130 (6%)
+
+Query  125  YRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALGLKGKNL  184
+            +R+ D  QK+  L +  +L A +L G N+N +    +  V  EP      + LG+ G  +
+Sbjct  14   FRIWDVNQKTFYLRN-NQLVAGYLQGPNVNLEE--KIDVVPIEPH----ALFLGIHGGKM  66
+
+Query  185  YLSCVMKDGTPTLQLESVDPKQYPK-KKMEKRFVFNKIEVKSKVEFESAEFPNWYISTSQ  243
+             LSCV       LQLE+V+     + +K +KRF F + +      FESA  P W++ T+ 
+Sbjct  67   CLSCVKSGDETRLQLEAVNITDLSENRKQDKRFAFIRSDSGPTTSFESAACPGWFLCTAM  126
+
+Query  244  AEHKPVFLGN  253
+               +PV L N
+Sbjct  127  EADQPVSLTN  136
+
+
+>1ILR_1 Chain 1, INTERLEUKIN-1 RECEPTOR ANTAGONIST PROTEIN [Homo sapiens]
+ 1ILR_2 Chain 2, INTERLEUKIN-1 RECEPTOR ANTAGONIST PROTEIN [Homo sapiens]
+ 1ILT_A Chain A, INTERLEUKIN-1 RECEPTOR ANTAGONIST [Homo sapiens]
+ 1ILT_B Chain B, INTERLEUKIN-1 RECEPTOR ANTAGONIST [Homo sapiens]
+ 1IRA_X Chain X, INTERLEUKIN-1 RECEPTOR ANTAGONIST [Homo sapiens]
+ 2IRT_A Chain A, Initial Crystallographic Analyses Of A Recombinant Interleukin-1 
+Receptor Antagonist Protein [Homo sapiens]
+ 2IRT_B Chain B, Initial Crystallographic Analyses Of A Recombinant Interleukin-1 
+Receptor Antagonist Protein [Homo sapiens]
+Length=152
+
+ Score = 58.9 bits (141),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 42/130 (32%), Positives = 65/130 (50%), Gaps = 8/130 (6%)
+
+Query  125  YRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALGLKGKNL  184
+            +R+ D  QK+  L +  +L A +L G N+N +    +  V  EP      + LG+ G  +
+Sbjct  13   FRIWDVNQKTFYLRN-NQLVAGYLQGPNVNLEE--KIDVVPIEPH----ALFLGIHGGKM  65
+
+Query  185  YLSCVMKDGTPTLQLESVDPKQYPK-KKMEKRFVFNKIEVKSKVEFESAEFPNWYISTSQ  243
+             LSCV       LQLE+V+     + +K +KRF F + +      FESA  P W++ T+ 
+Sbjct  66   CLSCVKSGDETRLQLEAVNITDLSENRKQDKRFAFIRSDSGPTTSFESAACPGWFLCTAM  125
+
+Query  244  AEHKPVFLGN  253
+               +PV L N
+Sbjct  126  EADQPVSLTN  135
+
+
+>NP_776214.1 interleukin-1 receptor antagonist protein isoform 1 precursor 
+[Homo sapiens]
+ P18510.1 RecName: Full=Interleukin-1 receptor antagonist protein; Short=IL-1RN; 
+Short=IL-1ra; Short=IRAP; AltName: Full=ICIL-1RA; 
+AltName: Full=IL1 inhibitor; AltName: INN=Anakinra; Flags: Precursor 
+[Homo sapiens]
+ AAB41943.1 interleukin 1 receptor antagonist [Homo sapiens]
+ AAB92270.1 IL-1 receptor antagonist IL-1Ra, secreted form [Homo sapiens]
+ EAW73625.1 interleukin 1 receptor antagonist, isoform CRA_c [Homo sapiens]
+ CAA36262.1 interleukin-1 receptor antagonist [Homo sapiens]
+ CAA37386.1 Interleukin-1 receptor antagonist protein [Homo sapiens]
+Length=177
+
+ Score = 59.3 bits (142),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 42/130 (32%), Positives = 65/130 (50%), Gaps = 8/130 (6%)
+
+Query  125  YRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALGLKGKNL  184
+            +R+ D  QK+  L +  +L A +L G N+N +    +  V  EP      + LG+ G  +
+Sbjct  38   FRIWDVNQKTFYLRN-NQLVAGYLQGPNVNLEE--KIDVVPIEPH----ALFLGIHGGKM  90
+
+Query  185  YLSCVMKDGTPTLQLESVDPKQYPK-KKMEKRFVFNKIEVKSKVEFESAEFPNWYISTSQ  243
+             LSCV       LQLE+V+     + +K +KRF F + +      FESA  P W++ T+ 
+Sbjct  91   CLSCVKSGDETRLQLEAVNITDLSENRKQDKRFAFIRSDSGPTTSFESAACPGWFLCTAM  150
+
+Query  244  AEHKPVFLGN  253
+               +PV L N
+Sbjct  151  EADQPVSLTN  160
+
+
+>NP_776213.1 interleukin-1 receptor antagonist protein isoform 2 [Homo sapiens]
+ AAB92269.1 IL-1 receptor antagonist IL-1Ra, long intracellular form [Homo 
+sapiens]
+ AAX93278.1 unknown [Homo sapiens]
+ BAF83587.1 unnamed protein product [Homo sapiens]
+ CAA59087.1 intracellular IL-1 receptor antagonist type II [Homo sapiens]
+Length=180
+
+ Score = 59.3 bits (142),  Expect = 1e-09, Method: Compositional matrix adjust.
+ Identities = 42/130 (32%), Positives = 65/130 (50%), Gaps = 8/130 (6%)
+
+Query  125  YRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALGLKGKNL  184
+            +R+ D  QK+  L +  +L A +L G N+N +    +  V  EP      + LG+ G  +
+Sbjct  41   FRIWDVNQKTFYLRN-NQLVAGYLQGPNVNLEE--KIDVVPIEPH----ALFLGIHGGKM  93
+
+Query  185  YLSCVMKDGTPTLQLESVDPKQYPK-KKMEKRFVFNKIEVKSKVEFESAEFPNWYISTSQ  243
+             LSCV       LQLE+V+     + +K +KRF F + +      FESA  P W++ T+ 
+Sbjct  94   CLSCVKSGDETRLQLEAVNITDLSENRKQDKRFAFIRSDSGPTTSFESAACPGWFLCTAM  153
+
+Query  244  AEHKPVFLGN  253
+               +PV L N
+Sbjct  154  EADQPVSLTN  163
+
+
+>NP_115945.4 interleukin-1 family member 10 [Homo sapiens]
+ NP_775184.1 interleukin-1 family member 10 [Homo sapiens]
+ Q8WWZ1.1 RecName: Full=Interleukin-1 family member 10; Short=IL-1F10; 
+AltName: Full=Family of interleukin 1-theta; Short=FIL1 theta; 
+AltName: Full=Interleukin-1 HY2; Short=IL-1HY2; AltName: 
+Full=Interleukin-1 theta; Short=IL-1 theta; AltName: Full=Interleukin-38; 
+Short=IL-38 [Homo sapiens]
+ AAK33010.1 interleukin-1 receptor antagonist-like FIL1 theta [Homo sapiens]
+ AAQ89205.1 FKSG75 [Homo sapiens]
+ AAY14991.1 unknown [Homo sapiens]
+ EAW73620.1 interleukin 1 family, member 10 (theta), isoform CRA_b [Homo 
+sapiens]
+ CAD29878.1 TPA: IL-1F10 (canonical form IL-1F10a) [Homo sapiens]
+Length=152
+
+ Score = 52.0 bits (123),  Expect = 2e-07, Method: Compositional matrix adjust.
+ Identities = 27/88 (31%), Positives = 46/88 (52%), Gaps = 1/88 (1%)
+
+Query  169  SNDKIPVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQ-YPKKKMEKRFVFNKIEVKSKV  227
+            +  K+P+ LG++G +  L+CV  +  P+LQLE V+ ++ Y   +   RF F +    S  
+Sbjct  51   ARTKVPIFLGIQGGSRCLACVETEEGPSLQLEDVNIEELYKGGEEATRFTFFQSSSGSAF  110
+
+Query  228  EFESAEFPNWYISTSQAEHKPVFLGNNS  255
+              E+A +P W++       +PV L   S
+Sbjct  111  RLEAAAWPGWFLCGPAEPQQPVQLTKES  138
+
+
+>AAK01948.1 interleukin-1 receptor antagonist FKSG75 [Homo sapiens]
+ EAW73619.1 interleukin 1 family, member 10 (theta), isoform CRA_a [Homo 
+sapiens]
+Length=144
+
+ Score = 51.6 bits (122),  Expect = 3e-07, Method: Compositional matrix adjust.
+ Identities = 27/88 (31%), Positives = 46/88 (52%), Gaps = 1/88 (1%)
+
+Query  169  SNDKIPVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQ-YPKKKMEKRFVFNKIEVKSKV  227
+            +  K+P+ LG++G +  L+CV  +  P+LQLE V+ ++ Y   +   RF F +    S  
+Sbjct  43   ARTKVPIFLGIQGGSRCLACVETEEGPSLQLEDVNIEELYKGGEEATRFTFFQSSSGSAF  102
+
+Query  228  EFESAEFPNWYISTSQAEHKPVFLGNNS  255
+              E+A +P W++       +PV L   S
+Sbjct  103  RLEAAAWPGWFLCGPAEPQQPVQLTKES  130
+
+
+>AAI03967.1 Interleukin 1 family, member 10 (theta) [Homo sapiens]
+ AAI03968.1 Interleukin 1 family, member 10 (theta) [Homo sapiens]
+ AAI03969.1 Interleukin 1 family, member 10 (theta) [Homo sapiens]
+Length=152
+
+ Score = 51.6 bits (122),  Expect = 4e-07, Method: Compositional matrix adjust.
+ Identities = 27/85 (32%), Positives = 45/85 (53%), Gaps = 1/85 (1%)
+
+Query  172  KIPVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQ-YPKKKMEKRFVFNKIEVKSKVEFE  230
+            K+P+ LG++G +  L+CV  +  P+LQLE V+ ++ Y   +   RF F +    S    E
+Sbjct  54   KVPIFLGIQGGSRCLACVETEEGPSLQLEDVNIEELYKGGEEATRFTFFQSSSGSAFRLE  113
+
+Query  231  SAEFPNWYISTSQAEHKPVFLGNNS  255
+            +A +P W++       +PV L   S
+Sbjct  114  AAAWPGWFLCGPAEPQQPVQLTKES  138
+
+
+>5BOW_A Chain A, Interleukin-1 family member 10 [Homo sapiens]
+Length=151
+
+ Score = 51.6 bits (122),  Expect = 4e-07, Method: Compositional matrix adjust.
+ Identities = 27/85 (32%), Positives = 45/85 (53%), Gaps = 1/85 (1%)
+
+Query  172  KIPVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQ-YPKKKMEKRFVFNKIEVKSKVEFE  230
+            K+P+ LG++G +  L+CV  +  P+LQLE V+ ++ Y   +   RF F +    S    E
+Sbjct  53   KVPIFLGIQGGSRCLACVETEEGPSLQLEDVNIEELYKGGEEATRFTFFQSSSGSAFRLE  112
+
+Query  231  SAEFPNWYISTSQAEHKPVFLGNNS  255
+            +A +P W++       +PV L   S
+Sbjct  113  AAAWPGWFLCGPAEPQQPVQLTKES  137
+
+
+>EAW73614.1 interleukin 1 family, member 6 (epsilon) [Homo sapiens]
+Length=120
+
+ Score = 33.9 bits (76),  Expect = 0.35, Method: Compositional matrix adjust.
+ Identities = 32/93 (34%), Positives = 44/93 (47%), Gaps = 2/93 (2%)
+
+Query  174  PVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQ-YPKKKMEKRFVFNKIEVKSKVEFESA  232
+            P+ LGL G NL L C      PTLQL+  D    Y + +  K F+F   +      FES 
+Sbjct  24   PIYLGLNGLNLCLMCAKVGDQPTLQLKEKDIMDLYNQPEPVKSFLFYHSQSGRNSTFESV  83
+
+Query  233  EFPNWYISTSQAEHKPVFLGNNSGQ-DIIDFTM  264
+             FP W+I+ S     P+ L    G+ +  DF +
+Sbjct  84   AFPGWFIAVSSEGGCPLILTQELGKANTTDFGL  116
+
+
+>NP_055255.1 interleukin-36 alpha [Homo sapiens]
+ XP_005263696.1 interleukin-36 alpha isoform X1 [Homo sapiens]
+ XP_011509267.1 interleukin-36 alpha isoform X1 [Homo sapiens]
+ XP_016859295.1 interleukin-36 alpha isoform X1 [Homo sapiens]
+ Q9UHA7.1 RecName: Full=Interleukin-36 alpha; AltName: Full=FIL1 epsilon; 
+AltName: Full=Interleukin-1 epsilon; Short=IL-1 epsilon; 
+AltName: Full=Interleukin-1 family member 6; Short=IL-1F6; Flags: 
+Precursor [Homo sapiens]
+ 6HPI_A Chain A, Interleukin-36 alpha [Homo sapiens]
+ AAF25211.1 FIL1 epsilon [Homo sapiens]
+ AAI07044.1 Interleukin 1 family, member 6 (epsilon) [Homo sapiens]
+ AAY14988.1 unknown [Homo sapiens]
+Length=158
+
+ Score = 33.9 bits (76),  Expect = 0.49, Method: Compositional matrix adjust.
+ Identities = 32/93 (34%), Positives = 44/93 (47%), Gaps = 2/93 (2%)
+
+Query  174  PVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQ-YPKKKMEKRFVFNKIEVKSKVEFESA  232
+            P+ LGL G NL L C      PTLQL+  D    Y + +  K F+F   +      FES 
+Sbjct  62   PIYLGLNGLNLCLMCAKVGDQPTLQLKEKDIMDLYNQPEPVKSFLFYHSQSGRNSTFESV  121
+
+Query  233  EFPNWYISTSQAEHKPVFLGNNSGQ-DIIDFTM  264
+             FP W+I+ S     P+ L    G+ +  DF +
+Sbjct  122  AFPGWFIAVSSEGGCPLILTQELGKANTTDFGL  154
+
+
+>AAI07043.1 Interleukin 1 family, member 6 (epsilon) [Homo sapiens]
+ AAX20113.1 interleukin 1 family, member 6 (epsilon) [Homo sapiens]
+Length=158
+
+ Score = 33.9 bits (76),  Expect = 0.53, Method: Compositional matrix adjust.
+ Identities = 32/93 (34%), Positives = 44/93 (47%), Gaps = 2/93 (2%)
+
+Query  174  PVALGLKGKNLYLSCVMKDGTPTLQLESVDPKQ-YPKKKMEKRFVFNKIEVKSKVEFESA  232
+            P+ LGL G NL L C      PTLQL+  D    Y + +  K F+F   +      FES 
+Sbjct  62   PIYLGLNGLNLCLMCAKVGDQPTLQLKEKDIMDLYNQPEPVKSFLFYHSQSGRNSTFESV  121
+
+Query  233  EFPNWYISTSQAEHKPVFLGNNSGQ-DIIDFTM  264
+             FP W+I+ S     P+ L    G+ +  DF +
+Sbjct  122  AFPGWFIAVSSEGGCPLILTQELGKANTTDFGL  154
+
+
+>AAB19977.1 interleukin 1 beta, IL-1 beta [human, skin, Peptide Partial, 
+22 aa] [Homo sapiens]
+Length=22
+
+ Score = 30.0 bits (66),  Expect = 1.2, Method: Composition-based stats.
+ Identities = 14/22 (64%), Positives = 16/22 (73%), Gaps = 0/22 (0%)
+
+Query  115  VCDVPIRQLHYRLRDEQQKSLV  136
+            V D P+R L+  LRD QQKSLV
+Sbjct  1    VHDAPVRSLNXTLRDSQQKSLV  22
+
+
+>NP_055253.2 interleukin-36 beta isoform 1 [Homo sapiens]
+ Q9NZH7.1 RecName: Full=Interleukin-36 beta; AltName: Full=FIL1 eta; AltName: 
+Full=Interleukin-1 eta; Short=IL-1 eta; AltName: Full=Interleukin-1 
+family member 8; Short=IL-1F8; AltName: Full=Interleukin-1 
+homolog 2; Short=IL-1H2; Flags: Precursor [Homo 
+sapiens]
+ AAF69250.1 interleukin-1 homolog 2 [Homo sapiens]
+ AAY14989.1 unknown [Homo sapiens]
+ ABA60896.1 interleukin 1 family, member 8 (eta) [Homo sapiens]
+ EAW73616.1 interleukin 1 family, member 8 (eta), isoform CRA_b [Homo sapiens]
+Length=164
+
+ Score = 32.3 bits (72),  Expect = 1.7, Method: Compositional matrix adjust.
+ Identities = 28/79 (35%), Positives = 38/79 (48%), Gaps = 6/79 (8%)
+
+Query  125  YRLRDEQQKSLVLSDPYELKA-LHLNGQNINQQVIFS--MSFVQGEPSNDKIPVALGLKG  181
+            Y +RD +Q   VLS    + A L  + + +   +I      F   E  N    V LG+KG
+Sbjct  12   YAIRDSRQMVWVLSGNSLIAAPLSRSIKPVTLHLIACRDTEFSDKEKGN---MVYLGIKG  68
+
+Query  182  KNLYLSCVMKDGTPTLQLE  200
+            K+L L C    G PTLQL+
+Sbjct  69   KDLCLFCAEIQGKPTLQLK  87
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jul 8, 2020  1:59 AM
+  Number of letters in database: 150,411,083
+  Number of sequences in database:  1,207,845
+
+Lambda      K        H
+   0.318    0.135    0.407 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 1207845
+Number of Hits to DB: 14959
+Number of extensions: 10
+Number of successful extensions: 3
+Number of sequences better than 100: 1
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 3
+Number of HSP's successfully gapped: 1
+Length of query: 269
+Length of database: 150411083
+Length adjustment: 104
+Effective length of query: 165
+Effective length of database: 24795203
+Effective search space: 4091208495
+Effective search space used: 4091208495
+T: 21
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+S2: 54 (25.4 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+

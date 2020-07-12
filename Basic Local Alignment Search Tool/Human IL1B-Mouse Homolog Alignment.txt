@@ -1,0 +1,588 @@
+BLASTP 2.10.1+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: GHP6G62H016
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           295,192,992 sequences; 106,311,842,569 total letters
+Query= NP_000567.1 interleukin-1 beta proprotein [Homo sapiens]
+
+Length=269
+
+
+                                                                   Score     E      Max
+Sequences producing significant alignments:                       (Bits)  Value   Ident
+
+NP_032387.1 interleukin-1 beta [Mus musculus]                      355     1e-123  68%         
+XP_006498858.1 interleukin-1 beta isoform X1 [Mus musculus]        350     9e-122  67%         
+BAE40029.1 unnamed protein product [Mus musculus]                  259     7e-87   65%         
+2MIB_A Chain A, INTERLEUKIN-1 BETA [Mus musculus]                  243     2e-81   78%         
+NP_081439.1 interleukin-36 beta [Mus musculus]                     66.2    3e-12   31%         
+AAL67152.1 IL-1F8 [Mus musculus]                                   63.9    8e-12   32%         
+XP_006497790.1 interleukin-1 receptor antagonist protein isofo...  54.7    1e-08   33%         
+NP_001153034.1 interleukin-1 receptor antagonist protein isofo...  55.1    2e-08   33%         
+NP_112444.1 interleukin-1 receptor antagonist protein isoform ...  54.7    2e-08   33%         
+AAH42532.1 Interleukin 1 receptor antagonist [Mus musculus]        54.7    2e-08   33%         
+NP_001034790.1 interleukin-1 receptor antagonist protein isofo...  55.1    2e-08   33%         
+AAA39310.1 interleukin 1 receptor antagonist [Mus musculus]        54.7    2e-08   33%         
+AAF69251.1 interleukin-1 homolog 3 [Mus musculus]                  48.1    3e-06   31%         
+NP_001139559.1 interleukin-36 receptor antagonist protein [Mus...  48.1    3e-06   31%         
+1MD6_A Chain A, High Resolution Crystal Structure Of Murine Il...  48.1    3e-06   31%         
+NP_694717.1 interleukin-1 family member 10 [Mus musculus]          48.1    4e-06   29%         
+EDL08167.1 interleukin 1 family, member 5 (delta), isoform CRA...  48.5    6e-06   31%         
+XP_030105236.1 interleukin-1 family member 10 isoform X1 [Mus ...  47.0    1e-05   29%         
+NP_062323.1 interleukin-36 alpha [Mus musculus]                    46.6    1e-05   32%         
+NP_034684.2 interleukin-1 alpha [Mus musculus]                     37.7    0.032   26%         
+EDL28236.1 interleukin 1 alpha, isoform CRA_a [Mus musculus]       37.0    0.054   26%         
+
+ALIGNMENTS
+>NP_032387.1 interleukin-1 beta [Mus musculus]
+ P10749.1 RecName: Full=Interleukin-1 beta; Short=IL-1 beta; Flags: Precursor 
+[Mus musculus]
+ AAA39276.1 interleukin 1-beta [Mus musculus]
+ AAH11437.1 Interleukin 1 beta [Mus musculus]
+ AAX90604.1 interleukin 1 beta [Mus musculus]
+ EDL28238.1 interleukin 1 beta [Mus musculus]
+ CAA28637.1 IL-1-beta [Mus musculus]
+Length=269
+
+ Score = 355 bits (910),  Expect = 1e-123, Method: Compositional matrix adjust.
+ Identities = 185/272 (68%), Positives = 216/272 (79%), Gaps = 6/272 (2%)
+
+Query  1    MAEVPELASEMMAYYSGNEDDLFFEADGPKQMKCSFQDLDL-CPLDGGIQLRISDHHYSK  59
+            MA VPEL  EM  + S +E+DLFFE DGP++MK  FQ  DL CP D  IQL+IS  H +K
+Sbjct  1    MATVPELNCEMPPFDS-DENDLFFEVDGPQKMKGCFQTFDLGCP-DESIQLQISQQHINK  58
+
+Query  60   GFRQAASVVVAMDKLRKMLVPCPQTFQENDLSTFFPFIFEEEPIFFDTWDNE--AYVHDA  117
+             FRQA S++VA++KL ++ V  P TFQ+ D+STFF FIFEEEPI  D+WD++    V D 
+Sbjct  59   SFRQAVSLIVAVEKLWQLPVSFPWTFQDEDMSTFFSFIFEEEPILCDSWDDDDNLLVCDV  118
+
+Query  118  PVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALG  177
+            P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVALG
+Sbjct  119  PIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALG  178
+
+Query  178  LKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNWY  237
+            LK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNWY
+Sbjct  179  LKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNWY  238
+
+Query  238  ISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  269
+            ISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  239  ISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  269
+
+
+>XP_006498858.1 interleukin-1 beta isoform X1 [Mus musculus]
+Length=275
+
+ Score = 350 bits (898),  Expect = 9e-122, Method: Compositional matrix adjust.
+ Identities = 178/267 (67%), Positives = 213/267 (80%), Gaps = 5/267 (2%)
+
+Query  6    ELASEMMAYYSGNEDDLFFEADGPKQMKCSFQDLDL-CPLDGGIQLRISDHHYSKGFRQA  64
+            EL+ + + ++  +E+DLFFE DGP++MK  FQ  DL CP D  IQL+IS  H +K FRQA
+Sbjct  11   ELSLDHICFHYSDENDLFFEVDGPQKMKGCFQTFDLGCP-DESIQLQISQQHINKSFRQA  69
+
+Query  65   ASVVVAMDKLRKMLVPCPQTFQENDLSTFFPFIFEEEPIFFDTWDNE--AYVHDAPVRSL  122
+             S++VA++KL ++ V  P TFQ+ D+STFF FIFEEEPI  D+WD++    V D P+R L
+Sbjct  70   VSLIVAVEKLWQLPVSFPWTFQDEDMSTFFSFIFEEEPILCDSWDDDDNLLVCDVPIRQL  129
+
+Query  123  NCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALGLKEKN  182
+            +  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVALGLK KN
+Sbjct  130  HYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALGLKGKN  189
+
+Query  183  LYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNWYISTSQ  242
+            LYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNWYISTSQ
+Sbjct  190  LYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNWYISTSQ  249
+
+Query  243  AENMPVFLGGTKGGQDITDFTMQFVSS  269
+            AE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  250  AEHKPVFLGNN-SGQDIIDFTMESVSS  275
+
+
+>BAE40029.1 unnamed protein product, partial [Mus musculus]
+Length=208
+
+ Score = 259 bits (662),  Expect = 7e-87, Method: Compositional matrix adjust.
+ Identities = 137/210 (65%), Positives = 162/210 (77%), Gaps = 5/210 (2%)
+
+Query  1    MAEVPELASEMMAYYSGNEDDLFFEADGPKQMKCSFQDLDL-CPLDGGIQLRISDHHYSK  59
+            MA VPEL  EM  + S +E+DLFFE DGP++MK  FQ  DL CP D  IQL+IS  H +K
+Sbjct  1    MATVPELNCEMPPFDS-DENDLFFEVDGPQKMKGCFQTFDLGCP-DESIQLQISQQHINK  58
+
+Query  60   GFRQAASVVVAMDKLRKMLVPCPQTFQENDLSTFFPFIFEEEPIFFDTWDNE--AYVHDA  117
+             FRQA S++VA++KL ++ V  P TFQ+ D+STFF FIFEEEPI  D+WD++    V D 
+Sbjct  59   SFRQAVSLIVAVEKLWQLPVSFPWTFQDEDMSTFFSFIFEEEPILCDSWDDDDNLLVCDV  118
+
+Query  118  PVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVALG  177
+            P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVALG
+Sbjct  119  PIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVALG  178
+
+Query  178  LKEKNLYLSCVLKDDKPTLQLESVDPKNYP  207
+            LK KNLYLSCV+KD  PTLQLESVDPK YP
+Sbjct  179  LKGKNLYLSCVMKDGTPTLQLESVDPKQYP  208
+
+
+>2MIB_A Chain A, INTERLEUKIN-1 BETA [Mus musculus]
+ 8I1B_A Chain A, INTERLEUKIN-1 BETA [Mus musculus]
+Length=152
+
+ Score = 243 bits (620),  Expect = 2e-81, Method: Compositional matrix adjust.
+ Identities = 119/153 (78%), Positives = 132/153 (86%), Gaps = 1/153 (1%)
+
+Query  117  APVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIPVAL  176
+             P+R L+  LRD QQKSLV+S PYELKALHL GQ++ QQV+FSMSFVQGE SNDKIPVAL
+Sbjct  1    VPIRQLHYRLRDEQQKSLVLSDPYELKALHLNGQNINQQVIFSMSFVQGEPSNDKIPVAL  60
+
+Query  177  GLKEKNLYLSCVLKDDKPTLQLESVDPKNYPKKKMEKRFVFNKIEINNKLEFESAQFPNW  236
+            GLK KNLYLSCV+KD  PTLQLESVDPK YPKKKMEKRFVFNKIE+ +K+EFESA+FPNW
+Sbjct  61   GLKGKNLYLSCVMKDGTPTLQLESVDPKQYPKKKMEKRFVFNKIEVKSKVEFESAEFPNW  120
+
+Query  237  YISTSQAENMPVFLGGTKGGQDITDFTMQFVSS  269
+            YISTSQAE+ PVFLG    GQDI DFTM+ VSS
+Sbjct  121  YISTSQAEHKPVFLGNN-SGQDIIDFTMESVSS  152
+
+
+>NP_081439.1 interleukin-36 beta [Mus musculus]
+ Q9D6Z6.1 RecName: Full=Interleukin-36 beta; AltName: Full=Interleukin-1 
+family member 8; Short=IL-1F8; Flags: Precursor [Mus musculus]
+ AAI19518.1 Interleukin 1 family, member 8 [Mus musculus]
+ EDL08160.1 mCG4845 [Mus musculus]
+ BAB26505.1 unnamed protein product [Mus musculus]
+Length=183
+
+ Score = 66.2 bits (160),  Expect = 3e-12, Method: Compositional matrix adjust.
+ Identities = 53/170 (31%), Positives = 85/170 (50%), Gaps = 10/170 (6%)
+
+Query  102  PIFFDTWD-NEAYVHDAPVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSM  160
+            P     W+ N   +H +     N  + DSQQ   V++G   L A+     +  + V+ S+
+Sbjct  15   PKSIQMWEPNHNTMHGSSQSPRNYRVHDSQQMVWVLTG-NTLTAV--PASNNVKPVILSL  71
+
+Query  161  SFVQGEESNDKIP---VALGLKEKNLYLSCVLKDDKPTLQLESVDPKN-YPKKKMEKRFV  216
+               +  E  D      V LG+K +NL   CV  + KPTLQL+ VD  N Y ++K +K F+
+Sbjct  72   IACRDTEFQDVKKGNLVFLGIKNRNLCFCCVEMEGKPTLQLKEVDIMNLYKERKAQKAFL  131
+
+Query  217  F-NKIEINNKLEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDFTMQ  265
+            F + IE +  + F+S  +P W+I+TS  E   + L   +G    T+F ++
+Sbjct  132  FYHGIEGSTSV-FQSVLYPGWFIATSSIERQTIILTHQRGKLVNTNFYIE  180
+
+
+>AAL67152.1 IL-1F8 [Mus musculus]
+Length=156
+
+ Score = 63.9 bits (154),  Expect = 8e-12, Method: Compositional matrix adjust.
+ Identities = 50/157 (32%), Positives = 81/157 (52%), Gaps = 9/157 (6%)
+
+Query  114  VHDAPVRSLNCTLRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIP  173
+            +H +     N  + DSQQ   V++G   L A+     +  + V+ S+   +  E  D   
+Sbjct  1    MHGSSQSPRNYRVHDSQQMVWVLTGN-TLTAV--PASNNVKPVILSLIACRDTEFQDVKK  57
+
+Query  174  ---VALGLKEKNLYLSCVLKDDKPTLQLESVDPKN-YPKKKMEKRFVF-NKIEINNKLEF  228
+               V LG+K +NL   CV  + KPTLQL+ VD  N Y ++K +K F+F + IE +  + F
+Sbjct  58   GNLVFLGIKNRNLCFCCVEMEGKPTLQLKEVDIMNLYKERKAQKAFLFYHGIEGSTSV-F  116
+
+Query  229  ESAQFPNWYISTSQAENMPVFLGGTKGGQDITDFTMQ  265
+            +S  +P W+I+TS  E   + L   +G    T+F ++
+Sbjct  117  QSVLYPGWFIATSSIERQTIILTHQRGKLVNTNFYIE  153
+
+
+>XP_006497790.1 interleukin-1 receptor antagonist protein isoform X1 [Mus musculus]
+Length=143
+
+ Score = 54.7 bits (130),  Expect = 1e-08, Method: Compositional matrix adjust.
+ Identities = 44/134 (33%), Positives = 62/134 (46%), Gaps = 18/134 (13%)
+
+Query  126  LRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIP-----VALGLKE  180
+            + D+ QK+  +    +L A +LQG +           ++ EE  D +P     V LG+  
+Sbjct  6    IWDTNQKTFYLRN-NQLIAGYLQGPN-----------IKLEEKIDMVPIDLHSVFLGIHG  53
+
+Query  181  KNLYLSCVLKDDKPTLQLESVDPKNYPKKKME-KRFVFNKIEINNKLEFESAQFPNWYIS  239
+              L LSC    D   LQLE V+  +  K K E KRF F + E      FESA  P W++ 
+Sbjct  54   GKLCLSCAKSGDDIKLQLEEVNITDLSKNKEEDKRFTFIRSEKGPTTSFESAACPGWFLC  113
+
+Query  240  TSQAENMPVFLGGT  253
+            T+   + PV L  T
+Sbjct  114  TTLEADRPVSLTNT  127
+
+
+>NP_001153034.1 interleukin-1 receptor antagonist protein isoform 3 [Mus musculus]
+ BAE42202.1 unnamed protein product [Mus musculus]
+Length=162
+
+ Score = 55.1 bits (131),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 44/132 (33%), Positives = 61/132 (46%), Gaps = 18/132 (14%)
+
+Query  128  DSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIP-----VALGLKEKN  182
+            D+ QK+  +    +L A +LQG +           ++ EE  D +P     V LG+    
+Sbjct  27   DTNQKTFYLRN-NQLIAGYLQGPN-----------IKLEEKIDMVPIDLHSVFLGIHGGK  74
+
+Query  183  LYLSCVLKDDKPTLQLESVDPKNYPKKKME-KRFVFNKIEINNKLEFESAQFPNWYISTS  241
+            L LSC    D   LQLE V+  +  K K E KRF F + E      FESA  P W++ T+
+Sbjct  75   LCLSCAKSGDDIKLQLEEVNITDLSKNKEEDKRFTFIRSEKGPTTSFESAACPGWFLCTT  134
+
+Query  242  QAENMPVFLGGT  253
+               + PV L  T
+Sbjct  135  LEADRPVSLTNT  146
+
+
+>NP_112444.1 interleukin-1 receptor antagonist protein isoform 1 [Mus musculus]
+ AAC15251.1 intracellular interleukin-1 receptor antagonist [Mus musculus]
+ ABD43197.1 IL-1 receptor antagonist isoform [Mus musculus]
+ ABD43199.1 IL-1 receptor antagonist isoform [Mus musculus]
+ EDL08170.1 interleukin 1 receptor antagonist [Mus musculus]
+ BAC36291.1 unnamed protein product [Mus musculus]
+Length=159
+
+ Score = 54.7 bits (130),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 44/132 (33%), Positives = 61/132 (46%), Gaps = 18/132 (14%)
+
+Query  128  DSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIP-----VALGLKEKN  182
+            D+ QK+  +    +L A +LQG +           ++ EE  D +P     V LG+    
+Sbjct  24   DTNQKTFYLRN-NQLIAGYLQGPN-----------IKLEEKIDMVPIDLHSVFLGIHGGK  71
+
+Query  183  LYLSCVLKDDKPTLQLESVDPKNYPKKKME-KRFVFNKIEINNKLEFESAQFPNWYISTS  241
+            L LSC    D   LQLE V+  +  K K E KRF F + E      FESA  P W++ T+
+Sbjct  72   LCLSCAKSGDDIKLQLEEVNITDLSKNKEEDKRFTFIRSEKGPTTSFESAACPGWFLCTT  131
+
+Query  242  QAENMPVFLGGT  253
+               + PV L  T
+Sbjct  132  LEADRPVSLTNT  143
+
+
+>AAH42532.1 Interleukin 1 receptor antagonist [Mus musculus]
+Length=159
+
+ Score = 54.7 bits (130),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 44/132 (33%), Positives = 61/132 (46%), Gaps = 18/132 (14%)
+
+Query  128  DSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIP-----VALGLKEKN  182
+            D+ QK+  +    +L A +LQG +           ++ EE  D +P     V LG+    
+Sbjct  24   DTNQKTFYLRN-NQLIAGYLQGPN-----------IKLEEKLDMVPIDLHSVFLGIHGGK  71
+
+Query  183  LYLSCVLKDDKPTLQLESVDPKNYPKKKME-KRFVFNKIEINNKLEFESAQFPNWYISTS  241
+            L LSC    D   LQLE V+  +  K K E KRF F + E      FESA  P W++ T+
+Sbjct  72   LCLSCAKSGDDIKLQLEEVNITDLSKNKEEDKRFTFIRSEKGPTTSFESAACPGWFLCTT  131
+
+Query  242  QAENMPVFLGGT  253
+               + PV L  T
+Sbjct  132  LEADRPVSLTNT  143
+
+
+>NP_001034790.1 interleukin-1 receptor antagonist protein isoform 2 precursor 
+[Mus musculus]
+ P25085.1 RecName: Full=Interleukin-1 receptor antagonist protein; Short=IL-1RN; 
+Short=IL-1ra; Short=IRAP; AltName: Full=IL1 inhibitor; 
+Flags: Precursor [Mus musculus]
+ AAA20576.1 interleukin 1 receptor antagonist [Mus musculus]
+ AAA39277.1 interleukin 1 receptor antagonist [Mus musculus]
+ AAA39278.1 interleukin 1 receptor antagonist [Mus musculus]
+ AAA39309.1 IL-1rn [Mus musculus]
+ ABD43196.1 IL-1 receptor antagonist isoform [Mus musculus]
+Length=178
+
+ Score = 55.1 bits (131),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 44/134 (33%), Positives = 62/134 (46%), Gaps = 18/134 (13%)
+
+Query  126  LRDSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIP-----VALGLKE  180
+            + D+ QK+  +    +L A +LQG +           ++ EE  D +P     V LG+  
+Sbjct  41   IWDTNQKTFYLRN-NQLIAGYLQGPN-----------IKLEEKIDMVPIDLHSVFLGIHG  88
+
+Query  181  KNLYLSCVLKDDKPTLQLESVDPKNYPKKKME-KRFVFNKIEINNKLEFESAQFPNWYIS  239
+              L LSC    D   LQLE V+  +  K K E KRF F + E      FESA  P W++ 
+Sbjct  89   GKLCLSCAKSGDDIKLQLEEVNITDLSKNKEEDKRFTFIRSEKGPTTSFESAACPGWFLC  148
+
+Query  240  TSQAENMPVFLGGT  253
+            T+   + PV L  T
+Sbjct  149  TTLEADRPVSLTNT  162
+
+
+>AAA39310.1 interleukin 1 receptor antagonist, partial [Mus musculus]
+Length=172
+
+ Score = 54.7 bits (130),  Expect = 2e-08, Method: Compositional matrix adjust.
+ Identities = 44/132 (33%), Positives = 61/132 (46%), Gaps = 18/132 (14%)
+
+Query  128  DSQQKSLVMSGPYELKALHLQGQDMEQQVVFSMSFVQGEESNDKIP-----VALGLKEKN  182
+            D+ QK+  +    +L A +LQG +           ++ EE  D +P     V LG+    
+Sbjct  37   DTNQKTFYLRN-NQLIAGYLQGPN-----------IKLEEKIDMVPIDLHSVFLGIHGGK  84
+
+Query  183  LYLSCVLKDDKPTLQLESVDPKNYPKKKME-KRFVFNKIEINNKLEFESAQFPNWYISTS  241
+            L LSC    D   LQLE V+  +  K K E KRF F + E      FESA  P W++ T+
+Sbjct  85   LCLSCAKSGDDIKLQLEEVNITDLSKNKEEDKRFTFIRSEKGPTTSFESAACPGWFLCTT  144
+
+Query  242  QAENMPVFLGGT  253
+               + PV L  T
+Sbjct  145  LEADRPVSLTNT  156
+
+
+>AAF69251.1 interleukin-1 homolog 3 [Mus musculus]
+ AAI32601.2 Interleukin 1 family, member 5 (delta) [Mus musculus]
+ AAI32603.2 Interleukin 1 family, member 5 (delta) [Mus musculus]
+ CAB59831.1 IL-1L1 protein [Mus musculus]
+Length=155
+
+ Score = 48.1 bits (113),  Expect = 3e-06, Method: Compositional matrix adjust.
+ Identities = 43/140 (31%), Positives = 65/140 (46%), Gaps = 19/140 (14%)
+
+Query  142  LKALHLQGQDMEQQVVFSMSFVQGEE----SNDKI-----PVALGLKEKNLYLSCVLKDD  192
+            LK L+L    +    + +   ++GEE     N  +     PV LG++  +  LSC   + 
+Sbjct  16   LKVLYLHNNQLLAGGLHAEKVIKGEEISVVPNRALDASLSPVILGVQGGSQCLSCG-TEK  74
+
+Query  193  KPTLQLESVDPKN-YPKKKMEKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLG  251
+             P L+LE V+    Y   K  K F F + ++     FESA +P W++ TS   + PV L 
+Sbjct  75   GPILKLEPVNIMELYLGAKESKSFTFYRRDMGLTSSFESAAYPGWFLCTSPEADQPVRL-  133
+
+Query  252  GTKGGQD------ITDFTMQ  265
+             T+  +D      ITDF  Q
+Sbjct  134  -TQIPEDPAWDAPITDFYFQ  152
+
+
+>NP_001139559.1 interleukin-36 receptor antagonist protein [Mus musculus]
+ NP_001139560.1 interleukin-36 receptor antagonist protein [Mus musculus]
+ NP_062324.2 interleukin-36 receptor antagonist protein [Mus musculus]
+ Q9QYY1.2 RecName: Full=Interleukin-36 receptor antagonist protein; Short=IL-36Ra; 
+AltName: Full=Interleukin-1 HY1; Short=IL-1HY1; 
+AltName: Full=Interleukin-1 delta; Short=IL-1 delta; AltName: 
+Full=Interleukin-1 family member 5; Short=IL-1F5; AltName: 
+Full=Interleukin-1 homolog 3; Short=IL-1H3; AltName: Full=Interleukin-1-like 
+protein 1; Short=IL-1L1 [Mus musculus]
+ AAF91275.1 interleukin-1 delta [Mus musculus]
+ EDL08164.1 interleukin 1 family, member 5 (delta), isoform CRA_a [Mus musculus]
+ EDL08165.1 interleukin 1 family, member 5 (delta), isoform CRA_a [Mus musculus]
+ BAB26002.1 unnamed protein product [Mus musculus]
+ BAB26471.1 unnamed protein product [Mus musculus]
+Length=156
+
+ Score = 48.1 bits (113),  Expect = 3e-06, Method: Compositional matrix adjust.
+ Identities = 43/140 (31%), Positives = 65/140 (46%), Gaps = 19/140 (14%)
+
+Query  142  LKALHLQGQDMEQQVVFSMSFVQGEE----SNDKI-----PVALGLKEKNLYLSCVLKDD  192
+            LK L+L    +    + +   ++GEE     N  +     PV LG++  +  LSC   + 
+Sbjct  17   LKVLYLHNNQLLAGGLHAEKVIKGEEISVVPNRALDASLSPVILGVQGGSQCLSCG-TEK  75
+
+Query  193  KPTLQLESVDPKN-YPKKKMEKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLG  251
+             P L+LE V+    Y   K  K F F + ++     FESA +P W++ TS   + PV L 
+Sbjct  76   GPILKLEPVNIMELYLGAKESKSFTFYRRDMGLTSSFESAAYPGWFLCTSPEADQPVRL-  134
+
+Query  252  GTKGGQD------ITDFTMQ  265
+             T+  +D      ITDF  Q
+Sbjct  135  -TQIPEDPAWDAPITDFYFQ  153
+
+
+>1MD6_A Chain A, High Resolution Crystal Structure Of Murine Il-1f5 Reveals 
+Unique Loop Conformation For Specificity [Mus musculus]
+Length=154
+
+ Score = 48.1 bits (113),  Expect = 3e-06, Method: Compositional matrix adjust.
+ Identities = 43/140 (31%), Positives = 65/140 (46%), Gaps = 19/140 (14%)
+
+Query  142  LKALHLQGQDMEQQVVFSMSFVQGEE----SNDKI-----PVALGLKEKNLYLSCVLKDD  192
+            LK L+L    +    + +   ++GEE     N  +     PV LG++  +  LSC   + 
+Sbjct  15   LKVLYLHNNQLLAGGLHAEKVIKGEEISVVPNRALDASLSPVILGVQGGSQCLSCG-TEK  73
+
+Query  193  KPTLQLESVDPKN-YPKKKMEKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLG  251
+             P L+LE V+    Y   K  K F F + ++     FESA +P W++ TS   + PV L 
+Sbjct  74   GPILKLEPVNIMELYLGAKESKSFTFYRRDMGLTSSFESAAYPGWFLCTSPEADQPVRL-  132
+
+Query  252  GTKGGQD------ITDFTMQ  265
+             T+  +D      ITDF  Q
+Sbjct  133  -TQIPEDPAWDAPITDFYFQ  151
+
+
+>NP_694717.1 interleukin-1 family member 10 [Mus musculus]
+ Q8R459.1 RecName: Full=Interleukin-1 family member 10; Short=IL-1F10 [Mus 
+musculus]
+ AAI07312.1 Interleukin 1 family, member 10 [Mus musculus]
+ AAI07313.1 Interleukin 1 family, member 10 [Mus musculus]
+ AAL67155.1 IL-1F10 [Mus musculus]
+ EDL08168.1 interleukin 1 family, member 10 [Mus musculus]
+Length=152
+
+ Score = 48.1 bits (113),  Expect = 4e-06, Method: Compositional matrix adjust.
+ Identities = 24/83 (29%), Positives = 41/83 (49%), Gaps = 1/83 (1%)
+
+Query  169  NDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKN-YPKKKMEKRFVFNKIEINNKLE  227
+              K+P+ LG++  +  L+CV   + P LQLE V+ ++ Y   +   RF F +  + +   
+Sbjct  52   RSKVPIFLGMQGGSCCLACVKTREGPLLQLEDVNIEDLYKGGEQTTRFTFFQRSLGSAFR  111
+
+Query  228  FESAQFPNWYISTSQAENMPVFL  250
+             E+A  P W++        PV L
+Sbjct  112  LEAAACPGWFLCGPAEPQQPVQL  134
+
+
+>EDL08167.1 interleukin 1 family, member 5 (delta), isoform CRA_c, partial 
+[Mus musculus]
+Length=215
+
+ Score = 48.5 bits (114),  Expect = 6e-06, Method: Compositional matrix adjust.
+ Identities = 43/140 (31%), Positives = 65/140 (46%), Gaps = 19/140 (14%)
+
+Query  142  LKALHLQGQDMEQQVVFSMSFVQGEE----SNDKI-----PVALGLKEKNLYLSCVLKDD  192
+            LK L+L    +    + +   ++GEE     N  +     PV LG++  +  LSC   + 
+Sbjct  76   LKVLYLHNNQLLAGGLHAEKVIKGEEISVVPNRALDASLSPVILGVQGGSQCLSCG-TEK  134
+
+Query  193  KPTLQLESVDPKN-YPKKKMEKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLG  251
+             P L+LE V+    Y   K  K F F + ++     FESA +P W++ TS   + PV L 
+Sbjct  135  GPILKLEPVNIMELYLGAKESKSFTFYRRDMGLTSSFESAAYPGWFLCTSPEADQPVRL-  193
+
+Query  252  GTKGGQD------ITDFTMQ  265
+             T+  +D      ITDF  Q
+Sbjct  194  -TQIPEDPAWDAPITDFYFQ  212
+
+
+>XP_030105236.1 interleukin-1 family member 10 isoform X1 [Mus musculus]
+Length=194
+
+ Score = 47.0 bits (110),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 24/83 (29%), Positives = 41/83 (49%), Gaps = 1/83 (1%)
+
+Query  169  NDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKN-YPKKKMEKRFVFNKIEINNKLE  227
+              K+P+ LG++  +  L+CV   + P LQLE V+ ++ Y   +   RF F +  + +   
+Sbjct  94   RSKVPIFLGMQGGSCCLACVKTREGPLLQLEDVNIEDLYKGGEQTTRFTFFQRSLGSAFR  153
+
+Query  228  FESAQFPNWYISTSQAENMPVFL  250
+             E+A  P W++        PV L
+Sbjct  154  LEAAACPGWFLCGPAEPQQPVQL  176
+
+
+>NP_062323.1 interleukin-36 alpha [Mus musculus]
+ Q9JLA2.1 RecName: Full=Interleukin-36 alpha; AltName: Full=FIL1 epsilon; 
+AltName: Full=Interleukin-1 epsilon; Short=IL-1 epsilon; 
+AltName: Full=Interleukin-1 family member 6; Short=IL-1F6; AltName: 
+Full=Interleukin-1 homolog 1; Short=IL-1H1; Flags: Precursor 
+[Mus musculus]
+ AAF69249.1 interleukin-1 homolog 1 [Mus musculus]
+ AAG35671.1 interleukin-1 epsilon [Mus musculus]
+ AAI17103.1 Interleukin 1 family, member 6 [Mus musculus]
+ AAI17105.1 Interleukin 1 family, member 6 [Mus musculus]
+ AKA62187.1 interleukin-36 alpha [Mus musculus]
+Length=160
+
+ Score = 46.6 bits (109),  Expect = 1e-05, Method: Compositional matrix adjust.
+ Identities = 33/102 (32%), Positives = 47/102 (46%), Gaps = 1/102 (1%)
+
+Query  167  ESNDKIPVALGLKEKNLYLSCVLKDDKPTLQL-ESVDPKNYPKKKMEKRFVFNKIEINNK  225
+            E+N   P  +G++     L C    ++P LQL E    + Y KK+  K  +F   +    
+Sbjct  58   ETNRGDPTYMGVQRPMSCLFCTKDGEQPVLQLGEGNIMEMYNKKEPVKASLFYHKKSGTT  117
+
+Query  226  LEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDFTMQFV  267
+              FESA FP W+I+     + P+ L    G   ITDF M  V
+Sbjct  118  STFESAAFPGWFIAVCSKGSCPLILTQELGEIFITDFEMIVV  159
+
+
+>NP_034684.2 interleukin-1 alpha [Mus musculus]
+ XP_006498856.1 interleukin-1 alpha isoform X1 [Mus musculus]
+ P01582.1 RecName: Full=Interleukin-1 alpha; Short=IL-1 alpha; Flags: Precursor 
+[Mus musculus]
+ AAC28999.1 interleukin-1 alpha [Mus musculus]
+ AAH03727.1 Il1a protein [Mus musculus]
+ AAX90603.1 interleukin 1 alpha [Mus musculus]
+ EDL28237.1 interleukin 1 alpha, isoform CRA_b [Mus musculus]
+Length=270
+
+ Score = 37.7 bits (86),  Expect = 0.032, Method: Compositional matrix adjust.
+ Identities = 75/291 (26%), Positives = 117/291 (40%), Gaps = 53/291 (18%)
+
+Query  1    MAEVPELASEMMAYYSGNEDDLFFEA-DGPKQMKCSFQDLDLCPL-----DGGIQLRISD  54
+            MA+VP+L  ++   YS NED  +  A D     + SF D     L     D  + LR S+
+Sbjct  1    MAKVPDLFEDLKNCYSENED--YSSAIDHLSLNQKSFYDASYGSLHETCTDQFVSLRTSE  58
+
+Query  55   HHYSKGF-----RQAASVVVAMDK-LRKMLVPCPQTFQENDLSTFFPFIFEEEPIFFDTW  108
+                  F     R   S   +  K L+K  +   +TF E+DL +    +  EE I     
+Sbjct  59   TSKMSNFTFKESRVTVSATSSNGKILKKRRLSFSETFTEDDLQSITHDL--EETI---QP  113
+
+Query  109  DNEAYVHDAPVR---------------SLNCTLRDSQQKSLVMSGPYELKALHLQGQDME  153
+             +  Y + + +R               SLN T+     K       + L    L   D++
+Sbjct  114  RSAPYTYQSDLRYKLMKLVRQKFVMNDSLNQTIYQDVDK-------HYLSTTWL--NDLQ  164
+
+Query  154  QQVVFSMSFVQGEESNDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKNYPK--KKM  211
+            Q+V F M        + K PV L + +  L++S    +D+P L  E  +    PK     
+Sbjct  165  QEVKFDMYAYSSGGDDSKYPVTLKISDSQLFVSAQ-GEDQPVLLKELPET---PKLITGS  220
+
+Query  212  EKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDF  262
+            E   +F    IN+K  F SA +P  +I+T +   + +     +G   +TDF
+Sbjct  221  ETDLIFFWKSINSKNYFTSAAYPELFIATKEQSRVHL----ARGLPSMTDF  267
+
+
+>EDL28236.1 interleukin 1 alpha, isoform CRA_a, partial [Mus musculus]
+Length=279
+
+ Score = 37.0 bits (84),  Expect = 0.054, Method: Compositional matrix adjust.
+ Identities = 75/291 (26%), Positives = 117/291 (40%), Gaps = 53/291 (18%)
+
+Query  1    MAEVPELASEMMAYYSGNEDDLFFEA-DGPKQMKCSFQDLDLCPL-----DGGIQLRISD  54
+            MA+VP+L  ++   YS NED  +  A D     + SF D     L     D  + LR S+
+Sbjct  10   MAKVPDLFEDLKNCYSENED--YSSAIDHLSLNQKSFYDASYGSLHETCTDQFVSLRTSE  67
+
+Query  55   HHYSKGF-----RQAASVVVAMDK-LRKMLVPCPQTFQENDLSTFFPFIFEEEPIFFDTW  108
+                  F     R   S   +  K L+K  +   +TF E+DL +    +  EE I     
+Sbjct  68   TSKMSNFTFKESRVTVSATSSNGKILKKRRLSFSETFTEDDLQSITHDL--EETI---QP  122
+
+Query  109  DNEAYVHDAPVR---------------SLNCTLRDSQQKSLVMSGPYELKALHLQGQDME  153
+             +  Y + + +R               SLN T+     K       + L    L   D++
+Sbjct  123  RSAPYTYQSDLRYKLMKLVRQKFVMNDSLNQTIYQDVDK-------HYLSTTWL--NDLQ  173
+
+Query  154  QQVVFSMSFVQGEESNDKIPVALGLKEKNLYLSCVLKDDKPTLQLESVDPKNYPK--KKM  211
+            Q+V F M        + K PV L + +  L++S    +D+P L  E  +    PK     
+Sbjct  174  QEVKFDMYAYSSGGDDSKYPVTLKISDSQLFVSAQ-GEDQPVLLKELPET---PKLITGS  229
+
+Query  212  EKRFVFNKIEINNKLEFESAQFPNWYISTSQAENMPVFLGGTKGGQDITDF  262
+            E   +F    IN+K  F SA +P  +I+T +   + +     +G   +TDF
+Sbjct  230  ETDLIFFWKSINSKNYFTSAAYPELFIATKEQSRVHL----ARGLPSMTDF  276
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jul 8, 2020  1:59 AM
+  Number of letters in database: 84,474,106
+  Number of sequences in database:  190,406
+
+Lambda      K        H
+   0.318    0.135    0.397 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 190406
+Number of Hits to DB: 7733
+Number of extensions: 4
+Number of successful extensions: 0
+Number of sequences better than 100: 0
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 0
+Number of HSP's successfully gapped: 0
+Length of query: 269
+Length of database: 84474106
+Length adjustment: 111
+Effective length of query: 158
+Effective length of database: 63339040
+Effective search space: 10007568320
+Effective search space used: 10007568320
+T: 21
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+S2: 58 (26.9 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
