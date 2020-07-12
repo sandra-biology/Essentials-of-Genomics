@@ -1,0 +1,250 @@
+Homo sapiens vascular endothelial growth factor B (VEGFB), transcript variant VEGFB-167, mRNA
+NCBI Reference Sequence: NM_001243733.2
+
+FASTA Graphics
+Go to:
+LOCUS       NM_001243733            1704 bp    mRNA    linear   PRI 25-MAY-2020
+DEFINITION  Homo sapiens vascular endothelial growth factor B (VEGFB),
+            transcript variant VEGFB-167, mRNA.
+ACCESSION   NM_001243733
+VERSION     NM_001243733.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1704)
+  AUTHORS   Harmanci K, Akan OY, Pirildar T, Ortan P and Ulman C.
+  TITLE     The Evaluation of the Relationship between sTREM-1, VEGF-B, and
+            VEGF Gene Expression Levels with Disease Activity of Behcet's
+            Patients
+  JOURNAL   Dis. Markers 2018, 2649392 (2018)
+   PUBMED   30420902
+  REMARK    GeneRIF: Results found that VEGF-B expressions levels were higher
+            in Behcet's disease (BD) patients than those in the healthy group,
+            but this difference did not reach statistical significance. Also,
+            VEGF-B gene expression is significantly higher in patients with
+            vascular involvement (DVT/thrombophlebitis).
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1704)
+  AUTHORS   Mesquita J, Castro-de-Sousa JP, Vaz-Pereira S, Neves A, Passarinha
+            LA and Tomaz CT.
+  TITLE     Evaluation of the growth factors VEGF-a and VEGF-B in the vitreous
+            and serum of patients with macular and retinal vascular diseases
+  JOURNAL   Growth Factors 36 (1-2), 48-57 (2018)
+   PUBMED   29969324
+  REMARK    GeneRIF: vitreous levels increased in neovascular retinal diseases
+REFERENCE   3  (bases 1 to 1704)
+  AUTHORS   Wu J, Wei H, Qu H, Feng Z, Long J, Ge Q and Deng H.
+  TITLE     Plasma vascular endothelial growth factor B levels are increased in
+            patients with newly diagnosed type 2 diabetes mellitus and
+            associated with the first phase of glucose-stimulated insulin
+            secretion function of beta-cell
+  JOURNAL   J. Endocrinol. Invest. 40 (11), 1219-1226 (2017)
+   PUBMED   28523459
+  REMARK    GeneRIF: High plasma VEGF-B levels are associated with type 2
+            diabetes mellitus.
+REFERENCE   4  (bases 1 to 1704)
+  AUTHORS   Zafar MI, Zheng J, Kong W, Ye X, Gou L, Regmi A and Chen LL.
+  TITLE     The role of vascular endothelial growth factor-B in metabolic
+            homoeostasis: current evidence
+  JOURNAL   Biosci. Rep. 37 (4) (2017)
+   PUBMED   28798193
+  REMARK    GeneRIF: Data from clinical studies point out the changes in
+            circulating or tissue expression levels of VEGF-B in obese compared
+            with lean patients.
+            Review article
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1704)
+  AUTHORS   Falkevall A, Mehlem A, Palombo I, Heller Sahlgren B, Ebarasi L, He
+            L, Ytterberg AJ, Olauson H, Axelsson J, Sundelin B, Patrakka J,
+            Scotney P, Nash A and Eriksson U.
+  TITLE     Reducing VEGF-B Signaling Ameliorates Renal Lipotoxicity and
+            Protects against Diabetic Kidney Disease
+  JOURNAL   Cell Metab. 25 (3), 713-726 (2017)
+   PUBMED   28190774
+  REMARK    GeneRIF: renal VEGF-B expression correlates with the severity of
+            Diabetic Kidney Disease.
+REFERENCE   6  (bases 1 to 1704)
+  AUTHORS   Wartiovaara U, Salven P, Mikkola H, Lassila R, Kaukonen J, Joukov
+            V, Orpana A, Ristimaki A, Heikinheimo M, Joensuu H, Alitalo K and
+            Palotie A.
+  TITLE     Peripheral blood platelets express VEGF-C and VEGF which are
+            released during platelet activation
+  JOURNAL   Thromb. Haemost. 80 (1), 171-175 (1998)
+   PUBMED   9684805
+REFERENCE   7  (bases 1 to 1704)
+  AUTHORS   Joukov V, Kaipainen A, Jeltsch M, Pajusola K, Olofsson B, Kumar V,
+            Eriksson U and Alitalo K.
+  TITLE     Vascular endothelial growth factors VEGF-B and VEGF-C
+  JOURNAL   J. Cell. Physiol. 173 (2), 211-215 (1997)
+   PUBMED   9365524
+  REMARK    Review article
+REFERENCE   8  (bases 1 to 1704)
+  AUTHORS   Olofsson B, Pajusola K, von Euler G, Chilov D, Alitalo K and
+            Eriksson U.
+  TITLE     Genomic organization of the mouse and human genes for vascular
+            endothelial growth factor B (VEGF-B) and characterization of a
+            second splice isoform
+  JOURNAL   J. Biol. Chem. 271 (32), 19310-19317 (1996)
+   PUBMED   8702615
+REFERENCE   9  (bases 1 to 1704)
+  AUTHORS   Olofsson B, Pajusola K, Kaipainen A, von Euler G, Joukov V, Saksela
+            O, Orpana A, Pettersson RF, Alitalo K and Eriksson U.
+  TITLE     Vascular endothelial growth factor B, a novel growth factor for
+            endothelial cells
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 93 (6), 2576-2581 (1996)
+   PUBMED   8637916
+REFERENCE   10 (bases 1 to 1704)
+  AUTHORS   Grimmond S, Lagercrantz J, Drinkwater C, Silins G, Townson S,
+            Pollock P, Gotley D, Carson E, Rakar S, Nordenskjold M, Ward L,
+            Hayward N and Weber G.
+  TITLE     Cloning and characterization of a novel human gene related to
+            vascular endothelial growth factor
+  JOURNAL   Genome Res. 6 (2), 124-131 (1996)
+   PUBMED   8919691
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AP001453.6, U48801.1,
+            BG031449.1, BM694361.1 and BU730521.1.
+            On Jun 2, 2019 this sequence version replaced NM_001243733.1.
+            
+            Summary: This gene encodes a member of the PDGF (platelet-derived
+            growth factor)/VEGF (vascular endothelial growth factor) family.
+            The VEGF family members regulate the formation of blood vessels and
+            are involved in endothelial cell physiology. This member is a
+            ligand for VEGFR-1 (vascular endothelial growth factor receptor 1)
+            and NRP-1 (neuropilin-1). Studies in mice showed that this gene was
+            co-expressed with nuclear-encoded mitochondrial genes and the
+            encoded protein specifically controlled endothelial uptake of fatty
+            acids. Alternatively spliced transcript variants encoding distinct
+            isoforms have been identified. [provided by RefSeq, Sep 2011].
+            
+            Transcript Variant: This variant (VEGFB-167) lacks a segment in the
+            3' coding region, resulting in a downstream stop codon, compared to
+            variant VEGFB-186. The resulting isoform (VEGFB-167, also known as
+            VRF167) has a shorter and distinct C-terminus, compared to isoform
+            VEGFB-186. This isoform contains the heparin binding domain and is
+            mostly sequestered in the extracellular matrix.
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: DRR138527.131272.1,
+                                           DRR138527.744167.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-247               AP001453.6         6766-7012
+            248-817             U48801.1           1-570
+            818-1305            BG031449.1         143-630
+            1306-1602           BM694361.1         248-544
+            1603-1644           BU730521.1         79-120              c
+            1645-1704           BU730521.1         18-77               c
+FEATURES             Location/Qualifiers
+     source          1..1704
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q13.1"
+     gene            1..1704
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /note="vascular endothelial growth factor B"
+                     /db_xref="GeneID:7423"
+                     /db_xref="HGNC:HGNC:12681"
+                     /db_xref="MIM:601398"
+     exon            1..310
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             251..817
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /note="isoform VEGFB-167 precursor is encoded by
+                     transcript variant VEGFB-167; VEGF-related factor"
+                     /codon_start=1
+                     /product="vascular endothelial growth factor B isoform
+                     VEGFB-167 precursor"
+                     /protein_id="NP_001230662.1"
+                     /db_xref="CCDS:CCDS58144.1"
+                     /db_xref="GeneID:7423"
+                     /db_xref="HGNC:HGNC:12681"
+                     /db_xref="MIM:601398"
+                     /translation="MSPLLRRLLLAALLQLAPAQAPVSQPDAPGHQRKVVSWIDVYTR
+                     ATCQPREVVVPLTVELMGTVAKQLVPSCVTVQRCGGCCPDDGLECVPTGQHQVRMQIL
+                     MIRYPSSQLGEMSLEEHSQCECRPKKKDSAVKPDSPRPLCPRCTQHHQRPDPRTCRCR
+                     CRRRSFLRCQGRGLELNPDTCRCRKLRR"
+     sig_peptide     251..313
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+     mat_peptide     314..814
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /product="vascular endothelial growth factor B isoform
+                     VEGFB-167"
+     exon            311..353
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /inference="alignment:Splign:2.1.0"
+     exon            354..550
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /inference="alignment:Splign:2.1.0"
+     exon            551..624
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /inference="alignment:Splign:2.1.0"
+     exon            625..660
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /inference="alignment:Splign:2.1.0"
+     exon            661..795
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /inference="alignment:Splign:2.1.0"
+     exon            796..1704
+                     /gene="VEGFB"
+                     /gene_synonym="VEGFL; VRF"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gccgtccccg ccgccgctgc ccgccgccac cggccgcccg cccgcccggc tcctccggcc
+       61 gcctccgctg cgctgcgctg cgctgcctgc acccagggct cgggaggggg ccgcggagga
+      121 gtcgcccccc gcgcccggcc cccgcccgcc gcgcccgggc ccgcgccatg gggctctggc
+      181 tgtcgccgcc ccccgcgccg ccgggctagg gcgatgcggg cgcccccggc gggcggcccc
+      241 ggcgggcacc atgagccctc tgctccgccg cctgctgctc gccgcactcc tgcagctggc
+      301 ccccgcccag gcccctgtct cccagcctga tgcccctggc caccagagga aagtggtgtc
+      361 atggatagat gtgtatactc gcgctacctg ccagccccgg gaggtggtgg tgcccttgac
+      421 tgtggagctc atgggcaccg tggccaaaca gctggtgccc agctgcgtga ctgtgcagcg
+      481 ctgtggtggc tgctgccctg acgatggcct ggagtgtgtg cccactgggc agcaccaagt
+      541 ccggatgcag atcctcatga tccggtaccc gagcagtcag ctgggggaga tgtccctgga
+      601 agaacacagc cagtgtgaat gcagacctaa aaaaaaggac agtgctgtga agccagacag
+      661 ccccaggccc ctctgcccac gctgcaccca gcaccaccag cgccctgacc cccggacctg
+      721 ccgctgccgc tgccgacgcc gcagcttcct ccgttgccaa gggcggggct tagagctcaa
+      781 cccagacacc tgcaggtgcc ggaagctgcg aaggtgacac atggcttttc agactcagca
+      841 gggtgacttg cctcagaggc tatatcccag tgggggaaca aagaggagcc tggtaaaaaa
+      901 cagccaagcc cccaagacct cagcccaggc agaagctgct ctaggacctg ggcctctcag
+      961 agggctcttc tgccatccct tgtctccctg aggccatcat caaacaggac agagttggaa
+     1021 gaggagactg ggaggcagca agaggggtca cataccagct caggggagaa tggagtactg
+     1081 tctcagtttc taaccactct gtgcaagtaa gcatcttaca actggctctt cctcccctca
+     1141 ctaagaagac ccaaacctct gcataatggg atttgggctt tggtacaaga actgtgaccc
+     1201 ccaaccctga taaaagagat ggaaggagct gtccctgcct gtgtcactgt ttgtcactgt
+     1261 ccaggctggc tggtttgggc atgaatgtct gcatcactaa atccagagct tgtcttgctc
+     1321 cctcattgtg cagatggagg aaatgaggac taaggcccca cagcagatcc caggcagggc
+     1381 cagaattatg tattcatcac tttcaagtta ttgccacgca tgggagtcag ggatagccca
+     1441 gtcaatacag actgcctgcc ctcctgctct tcaccagggt tcttttctag aaggagacag
+     1501 ccttctgtgg ccagagagct tggggtagga cccagatcta ctgagtgacc ttgcttgtca
+     1561 ctacccctgc ctctctgagc agcagtttcc acatgtgcac atagagggaa cagaagattg
+     1621 ctgtggttgg cgtcctcggg ccccagagaa gtttgagact atctttacgt aatagaaaag
+     1681 aacacttgtt cttcctgcca ggca
+//
