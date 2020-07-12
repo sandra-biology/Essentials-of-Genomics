@@ -1,0 +1,111 @@
+########################################
+# Program: needle
+# Rundate: Sun 28 Jun 2020 21:39:56
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20200628-213952-0189-20696098-p1m.asequence
+#    -bsequence emboss_needle-I20200628-213952-0189-20696098-p1m.bsequence
+#    -datafile EPAM200
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: GLPA_HUMAN
+# 2: GLP_HORSE
+# Matrix: EPAM200
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 213
+# Identity:      45/213 (21.1%)
+# Similarity:    77/213 (36.2%)
+# Gaps:         105/213 (49.3%)
+# Score: 250.0
+# 
+#
+#=======================================
+
+GLPA_HUMAN         1 SialoglycoproteinalphaMNsialoglycoproteinCDaantige     50
+                                                                       
+GLP_HORSE          1 --------------------------------------------------      0
+
+GLPA_HUMAN        51 nMYGKIIFVLLLSAIVSISASSTTGVAMHTSTSSSVTKSYISSQTNDTHK    100
+                                  ..::.::::.:|.:..::.:|:.|.::.:.|.     
+GLP_HORSE          1 -------------QTIATGSPPIAGTSDLSTITSAATPTFTTEQD-----     32
+
+GLPA_HUMAN       101 RDTYAATPRAHEVSEISVRTVYPPEEETGERVQLAHHFSEPEITLIIFGV    150
+                                             ..|.|:.:||||.||:|.||:||:||
+GLP_HORSE         33 ------------------------GREQGDGLQLAHDFSQPVITVIILGV     58
+
+GLPA_HUMAN       151 MAGVIGTILLISYGIRRLIKKSPSDVKP---------LPSP---DTDVPL    188
+                     |||:||.|||::|..|||.|::|:||.|         .|:|   |.:.:|
+GLP_HORSE         59 MAGIIGIILLLAYVSRRLRKRPPADVPPPASTVPSADAPPPVSEDDETSL    108
+
+GLPA_HUMAN       189 SSVEIENPETSDQ    201
+                     :|||.:.|..|: 
+GLP_HORSE        109 TSVETDYPGDSQ-    120
+
+
+#---------------------------------------
+#---------------------------------------
+
+Submission Details
+
+EMBOSS Needle
+Input form
+Web services
+Help & Documentation
+Bioinformatics Tools FAQ
+ Feedback
+Share
+Tools > Pairwise Sequence Alignment > EMBOSS Needle
+
+Results for job emboss_needle-I20200628-213952-0189-20696098-p1m
+AlignmentSubmission Details
+Program
+needle
+Version
+6.6.0
+Launched Date
+Sun, Jun 28, 2020 at 21:39:53
+End Date
+Sun, Jun 28, 2020 at 21:39:56
+First Input Sequence
+emboss_needle-I20200628-213952-0189-20696098-p1m.inputA
+Second Input Sequence
+emboss_needle-I20200628-213952-0189-20696098-p1m.inputB
+Output Result
+emboss_needle-I20200628-213952-0189-20696098-p1m.output
+Command
+/nfs/public/ro/es/appbin/linux-x86_64/EMBOSS-6.6.0/bin/needle -auto -stdout -asequence emboss_needle-I20200628-213952-0189
+-20696098-p1m.asequence -bsequence emboss_needle-I20200628-213952-0189-20696098-p1m.bsequence -datafile
+ EPAM200 -gapopen 10.0 -gapextend 0.5 -endopen 10.0 -endextend 0.5 -aformat3 pair -sprotein1 -sprotein2
+
+Input Parameters
+Matrix
+EPAM200
+Gap open
+10.0
+Gap extend
+0.5
+End Gap Penalty
+false
+End Gap Open Penalty
+10.0
+End Gap Extension Penalty
+0.5
+Output Format
+pair
+Sequence Type
+protein

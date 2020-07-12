@@ -1,0 +1,109 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+VEGA_CHICK        MNFLLTWIHWGLAALLYLQSAELSKAAPALGDGERKPNEVIKFLEVYERSFCRTIETLVD	60
+VEGA_BIRD         MNFLLTWIHWGLAALLYLQSAELSKAAPALGDGERKPNEVIKFLEVYERSFCRTIETLVD	60
+VEGA_HUMAN        MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVD	60
+VEGA_HORSE        MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGEH-KTHEVVKFMDVYQRSYCRPIETLVD	59
+VEGA_BOVINE       MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGQ-KPHEVVKFMDVYQRSFCRPIETLVD	59
+VEGA_PIG          MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGDQ-KPHEVVKFMDVYQRSYCRPIETLVD	59
+VEGA_HAMSTER      MNFLLSWVHWTLALLLYLHHAKWSQAAPTTEGE-QKAHGVVEFMDVYRRSYCHPIETLVD	59
+VEGA_MOUSE        MNFLLSWVHWTLALLLYLHHAKWSQAAPTTEGE-QKSHEVIKFMDVYQRSYCRPIETLVD	59
+                  *****:*:** ** ****: *: *:***   .   : : *::*::**.**:*: ******
+
+VEGA_CHICK        IFQEYPDEVEYIFRPSCVPLMRCAGCCGDEGLECVPVDVYNVTMEIARIKPHQSQHIAHM	120
+VEGA_BIRD         IFQEYPDEVEYIFKPSCVPLMRCAGCCGDEGLECVPVDVYNVTMEIMRIKPHQSQHISHM	120
+VEGA_HUMAN        IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEM	120
+VEGA_HORSE        IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTAEFNITMQIMRIKPHQSQHIGEM	119
+VEGA_BOVINE       IFQEYPDEIEFIFKPSCVPLMRCGGCCNDESLECVPTEEFNITMQIMRIKPHQSQHIGEM	119
+VEGA_PIG          IFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEEFNITMQIMRIKPHQGQHIGEM	119
+VEGA_HAMSTER      IFQEYPDEIEYIFKPSCVPLMRCGGCCSDEALECVPTSESNITMQIMRVKPHQSQHIGEM	119
+VEGA_MOUSE        IFQEYPDEIEYIFKPSCVPLMRCAGCCNDEALECVPTSESNITMQIMRIKPHQSQHIGEM	119
+                  ********:*:**:*********.***.**.*****.   *:**:* *:****.***..*
+
+VEGA_CHICK        SFLQHSKCDCRPKKDVKNKQEK--------------------------------------	142
+VEGA_BIRD         SFLQHSKCDCRPKKDVKNKQEKWAQKPRSDGPSFIPQTWTLHDPWPWQSFLMHYPKSGKC	180
+VEGA_HUMAN        SFLQHNKCECRPKKDRARQE----------------------------------------	140
+VEGA_HORSE        SFLQHSKCECRPKKDKARQE----------------------------------------	139
+VEGA_BOVINE       SFLQHNKCECRPKKDKARQE----------------------------------------	139
+VEGA_PIG          SFLQHNKCECRPKKDRARQE----------------------------------------	139
+VEGA_HAMSTER      SFLQHSRCECRPKKVRTKPE----------------------------------------	139
+VEGA_MOUSE        SFLQHSRCECRPKKDRTKPE----------------------------------------	139
+                  *****.:*:*****   . :                                        
+
+VEGA_CHICK        -----------KSKRGKGKGQKRKRKKGRYKPPSF-----------------HCEPCSER	174
+VEGA_BIRD         RRVCPTSMDSRKSKRGKGKGQKRKRKKGRYKPLSF-----------------HCEPCSER	223
+VEGA_HUMAN        ----------KKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPGPHPCGPCSER	190
+VEGA_HORSE        ---------------------------------------------------NPCGPCSER	148
+VEGA_BOVINE       ---------------------------------------------------NPCGPCSER	148
+VEGA_PIG          ---------------------------------------------------NPCGPCSER	148
+VEGA_HAMSTER      ----------------------------------N-----------------HCEPCSER	148
+VEGA_MOUSE        ----------KKSVRGKGKGQKRKRKKSRFKSWSV-----------------HCEPCSER	172
+                                                                       * *****
+
+VEGA_CHICK        RKHLFVQDPQTCKCSCKFTDSRCKSRQLELNERTCRCEKPRR	216
+VEGA_BIRD         RKHLFVQDPQTCKCSCKFTDSRCKSRQLELNERTCRCEKPRR	265
+VEGA_HUMAN        RKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR	232
+VEGA_HORSE        RKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR	190
+VEGA_BOVINE       RKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR	190
+VEGA_PIG          RKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR	190
+VEGA_HAMSTER      RKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR	190
+VEGA_MOUSE        RKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPRR	214
+                  ***************** ******:************:****
+
+Submission Details
+
+Clustal Omega
+Input form
+Web services
+Help & Documentation
+Bioinformatics Tools FAQ
+ Feedback
+Share
+Tools > Multiple Sequence Alignment > Clustal Omega
+
+Results for job clustalo-I20200624-221202-0239-27547237-p2m
+AlignmentsResult SummaryGuide TreePhylogenetic TreeResults ViewersSubmission Details
+Program
+clustalo
+Version
+1.2.4
+Number of Sequences
+8
+Launched Date
+Wed, Jun 24, 2020 at 22:12:03
+End Date
+Wed, Jun 24, 2020 at 22:12:04
+Input Sequences
+clustalo-I20200624-221202-0239-27547237-p2m.input
+Output Result
+clustalo-I20200624-221202-0239-27547237-p2m.output
+Command
+/nfs/public/ro/es/appbin/linux-x86_64/clustal-omega-1.2.4/bin/clustalo --infile clustalo-I20200624-221202-0239
+-27547237-p2m.sequence --threads 8 --MAC-RAM 8000 --verbose --guidetree-out clustalo-I20200624-221202-0239-27547237-p2m.dnd
+ --outfmt clustal --resno --outfile clustalo-I20200624-221202-0239-27547237-p2m.clustal_num --output-order tree-order
+ --seqtype protein
+
+Input Parameters
+Output guide tree
+true
+Output distance matrix
+false
+Dealign input sequences
+false
+mBed-like clustering guide tree
+true
+mBed-like clustering iteration
+true
+Number of iterations
+0
+Maximum guide tree iterations
+-1
+Maximum HMM iterations
+-1
+Output alignment format
+clustal_num
+Output order
+aligned
+Sequence Type
+protein

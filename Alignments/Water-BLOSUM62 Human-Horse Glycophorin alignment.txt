@@ -1,0 +1,95 @@
+########################################
+# Program: water
+# Rundate: Sun 28 Jun 2020 21:59:31
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20200628-215928-0255-86252809-p2m.asequence
+#    -bsequence emboss_water-I20200628-215928-0255-86252809-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: GLPA_HUMAN
+# 2: GLP_HORSE
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 101
+# Identity:      47/101 (46.5%)
+# Similarity:    59/101 (58.4%)
+# Gaps:          17/101 (16.8%)
+# Score: 188.0
+# 
+#
+#=======================================
+
+GLPA_HUMAN       103 TYAATPRAHEVSEISVRTVYPPEEETGERVQLAHHFSEPEITLIIFGVMA    152
+                     |.||||         ..|......|.|:.:||||.||:|.||:||.||||
+GLP_HORSE         20 TSAATP---------TFTTEQDGREQGDGLQLAHDFSQPVITVIILGVMA     60
+
+GLPA_HUMAN       153 GVIGTILLISYGIRRLIKKSPSDVKP----LPSPDTDVPLSSVEIENPET    198
+                     |:||.|||::|..|||.|:.|:||.|    :||.|...|:|    |:.||
+GLP_HORSE         61 GIIGIILLLAYVSRRLRKRPPADVPPPASTVPSADAPPPVS----EDDET    106
+
+GLPA_HUMAN       199 S    199
+                     |
+GLP_HORSE        107 S    107
+
+
+#---------------------------------------
+#---------------------------------------
+
+Submission Details
+
+EMBOSS Water
+Input form
+Web services
+Help & Documentation
+Bioinformatics Tools FAQ
+ Feedback
+Share
+Tools > Pairwise Sequence Alignment > EMBOSS Water
+
+Results for job emboss_water-I20200628-215928-0255-86252809-p2m
+AlignmentSubmission Details
+Program
+water
+Version
+6.6.0
+Launched Date
+Sun, Jun 28, 2020 at 21:59:29
+End Date
+Sun, Jun 28, 2020 at 21:59:33
+First Input Sequence
+emboss_water-I20200628-215928-0255-86252809-p2m.inputA
+Second Input Sequence
+emboss_water-I20200628-215928-0255-86252809-p2m.inputB
+Output Result
+emboss_water-I20200628-215928-0255-86252809-p2m.output
+Command
+/nfs/public/ro/es/appbin/linux-x86_64/EMBOSS-6.6.0/bin/water -auto -stdout -asequence emboss_water-I20200628-215928-0255
+-86252809-p2m.asequence -bsequence emboss_water-I20200628-215928-0255-86252809-p2m.bsequence -datafile
+ EBLOSUM62 -gapopen 10.0 -gapextend 0.5 -aformat3 pair -sprotein1 -sprotein2
+
+Input Parameters
+Matrix
+EBLOSUM62
+Gap open
+10.0
+Gap extend
+0.5
+Output Format
+pair
+Sequence Type
+protein
